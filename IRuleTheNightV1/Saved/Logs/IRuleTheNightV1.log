@@ -2900,3 +2900,1052 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.26-19.59.21:213][729]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
 [2024.04.26-19.59.21:219][729]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
 [2024.04.26-19.59.21:219][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-20.10.54:495][445]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.074 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.26-20.17.09:882][571]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Yeti Stereo Microphone), InstanceID=1
+[2024.04.26-20.17.10:207][571]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10772
+[2024.04.26-20.17.10:542][572]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7fefe957-6b36-46eb-a340-08fd2b92a958}, Name=Speakers (Yeti Stereo Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=64.83
+[2024.04.26-20.17.10:542][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.26-20.17.10:543][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.26-21.10.53:619][239]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.196 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.26-22.10.53:596][ 37]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.26-23.10.53:570][835]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.146 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-00.10.53:562][632]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.138 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 0 (Found bundle for host: 0x8d25a9602a0 [serially])
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 7 (Closing connection)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66D51BEE-4B83-4C79-0B00-B28B36265E0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a55ab3a46708324964401b1a0ae16a9%7C2aeb601cdd554c49a52f009405700a99%7Cc3d533ec-e017-429a-adc3-2c83fe8bb6ed&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: 000008D307820000: libcurl info message cache 13 (Closing connection)
+[2024.04.27-01.03.12:291][ 47]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66D51BEE-4B83-4C79-0B00-B28B36265E0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a55ab3a46708324964401b1a0ae16a9%7C2aeb601cdd554c49a52f009405700a99%7Cc3d533ec-e017-429a-adc3-2c83fe8bb6ed&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.27-01.03.41:967][136]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.04.27-01.03.43:881][141]Could not fetch the local adapter addresses
+[2024.04.27-01.03.43:881][141]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.04.27-01.03.43:967][142]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.04.27-01.03.45:794][147]Could not fetch the local adapter addresses
+[2024.04.27-01.03.45:794][147]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.04.27-01.03.45:966][148]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.04.27-01.03.47:807][153]Could not fetch the local adapter addresses
+[2024.04.27-01.03.47:807][153]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.04.27-01.03.47:967][154]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.04.27-01.03.49:816][159]Could not fetch the local adapter addresses
+[2024.04.27-01.03.49:816][159]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.04.27-01.03.49:967][160]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.04.27-01.03.51:828][165]Could not fetch the local adapter addresses
+[2024.04.27-01.03.51:828][165]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.04.27-01.03.51:969][166]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.04.27-01.03.53:302][170]LogHttp: Warning: 000008D30782C300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.27-01.03.53:302][170]LogHttp: Warning: 000008D30782C300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.27-01.03.53:302][170]LogHttp: Warning: 000008D30782C300: libcurl info message cache 1 (Closing connection)
+[2024.04.27-01.03.53:302][170]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66D51BEE-4B83-4C79-0B00-B28B36265E0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a55ab3a46708324964401b1a0ae16a9%7C2aeb601cdd554c49a52f009405700a99%7Cc3d533ec-e017-429a-adc3-2c83fe8bb6ed&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.27-01.03.53:840][171]Could not fetch the local adapter addresses
+[2024.04.27-01.03.53:840][171]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.04.27-01.03.53:970][172]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.04.27-01.03.56:351][177]Could not fetch the local adapter addresses
+[2024.04.27-01.03.56:351][177]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2024.04.27-01.04.53:039][348]LogHttp: Warning: 000008D30782B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.27-01.04.53:039][348]LogHttp: Warning: 000008D30782B400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.27-01.04.53:039][348]LogHttp: Warning: 000008D30782B400: libcurl info message cache 1 (Closing connection)
+[2024.04.27-01.04.53:039][348]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66D51BEE-4B83-4C79-0B00-B28B36265E0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a55ab3a46708324964401b1a0ae16a9%7C2aeb601cdd554c49a52f009405700a99%7Cc3d533ec-e017-429a-adc3-2c83fe8bb6ed&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.27-01.10.53:564][429]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-02.10.54:418][229]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.992 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-03.10.53:610][ 24]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.183 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-04.10.53:597][822]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.167 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-05.10.53:573][620]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.143 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-06.10.53:541][417]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-07.10.54:436][218]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-08.10.53:606][ 13]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.175 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-09.10.53:618][810]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.186 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-10.10.53:577][608]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.144 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-11.10.53:543][406]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-12.10.54:447][206]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.014 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-13.10.53:583][  1]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-14.10.53:602][799]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.169 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-15.10.53:575][597]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-16.10.53:551][394]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.116 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-17.10.54:453][195]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.017 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-18.10.53:591][990]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.155 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-19.10.53:614][788]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.176 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-20.10.53:579][586]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-21.10.53:566][383]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.128 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-21.47.51:549][ 36]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SMT27A300 (NVIDIA High Definition Audio), InstanceID=1
+[2024.04.27-21.47.51:787][ 36]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10772
+[2024.04.27-21.47.52:122][ 37]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a96865b-4f97-4a42-a23b-109bbd0841ab}, Name=SMT27A300 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=46.89
+[2024.04.27-21.47.52:122][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.27-21.47.52:123][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.27-21.57.46:950][822]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Yeti Stereo Microphone), InstanceID=1
+[2024.04.27-21.57.47:268][822]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10772
+[2024.04.27-21.57.47:602][823]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7fefe957-6b36-46eb-a340-08fd2b92a958}, Name=Speakers (Yeti Stereo Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=64.74
+[2024.04.27-21.57.47:602][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.27-21.57.47:604][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.27-22.10.54:475][184]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.036 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.27-23.10.53:618][979]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-00.10.53:611][776]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.172 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-01.10.53:746][574]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.306 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-02.10.53:563][371]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.122 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-03.10.54:494][172]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-04.10.53:595][967]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.152 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-05.10.53:623][765]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.180 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-06.10.53:584][562]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.140 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-07.10.53:572][360]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.128 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-08.10.54:493][160]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-09.10.53:667][955]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.223 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-10.10.53:624][753]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.180 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-11.10.53:591][550]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.146 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-12.10.53:586][348]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.140 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-13.10.54:511][148]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-14.10.53:599][943]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.152 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-15.10.53:626][741]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-16.10.56:409][538]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.157 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-17.10.56:380][336]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-18.10.57:316][136]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-19.10.56:434][931]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.180 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-20.10.56:435][729]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.180 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-21.10.56:405][526]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-22.10.56:386][324]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.130 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.28-23.10.57:331][124]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.075 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-00.10.56:406][919]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-01.10.56:666][717]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.193 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-02.10.56:865][515]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.164 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-03.10.56:912][312]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-04.10.56:902][110]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-05.10.57:786][910]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.983 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-06.10.56:962][705]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.156 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-07.10.56:967][503]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.160 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-08.10.56:948][300]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.140 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-09.10.56:946][ 98]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.137 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-10.10.58:128][898]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.010 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-11.10.57:521][693]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.186 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-12.10.57:584][491]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.161 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-13.10.57:636][288]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.165 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-14.10.57:616][ 86]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.109 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-15.10.58:545][886]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-16.10.57:751][682]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.180 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-17.10.57:755][479]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.153 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-18.10.57:777][277]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.144 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-19.10.57:942][ 74]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.152 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-20.10.58:950][875]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.022 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-21.10.58:181][670]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.187 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-22.10.58:226][467]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.187 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.29-23.10.58:219][265]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.143 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-00.10.58:256][ 63]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.145 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-01.10.59:189][863]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.043 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-02.10.58:376][658]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.194 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-03.10.58:365][455]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-04.10.58:403][253]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-05.10.58:404][ 51]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.116 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-06.10.59:369][851]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.045 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-07.10.58:520][646]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.161 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-08.10.58:543][444]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-09.10.58:613][241]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.205 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-10.10.58:542][ 39]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.133 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-11.10.59:476][839]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-12.10.58:580][634]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.170 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-13.10.58:561][432]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-14.10.58:559][230]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-15.10.58:541][ 27]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.130 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-16.10.59:464][828]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27168 files in 28491 folders with total size 7983 MiB.
+[2024.04.30-16.29.17:704][122]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SMT27A300 (NVIDIA High Definition Audio), InstanceID=1
+[2024.04.30-16.29.17:999][122]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10772
+[2024.04.30-16.29.18:336][123]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a96865b-4f97-4a42-a23b-109bbd0841ab}, Name=SMT27A300 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=40.50
+[2024.04.30-16.29.18:336][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.30-16.29.18:337][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.30-16.29.45:420][151]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-16.29.45:452][151]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.30-16.29.45:452][151]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.30-16.29.45:465][151]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 13 ms (total: 60 ms)
+[2024.04.30-16.29.45:489][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-16.29.45:489][151]PIE: New page: PIE session: ThirdPersonMap (Apr 30, 2024, 8:29:45 AM)
+[2024.04.30-16.29.45:489][151]LogPlayLevel: Display: Creating online subsystem for client :Context_114
+[2024.04.30-16.29.45:491][151]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2024.04.30-16.29.45:530][152]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.30-16.29.45:548][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018779s)
+[2024.04.30-16.29.45:548][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.018819s)
+[2024.04.30-16.29.45:576][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2024.04.30-16.29.45:587][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-16.29.45:587][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-16.29.45:587][152]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.30-16.29.45:588][152]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.30-16.29.45:588][152]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.30-16.29.45:588][152]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.30-16.29.45:588][152]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.30-16.29.45:589][152]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.30-16.29.45:589][152]LogWorldPartition: Display: WorldPartition initialize took 853 us (total: 79 ms)
+[2024.04.30-16.29.45:589][152]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2024.04.30-16.29.45:589][152]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.30-16.29.45:589][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-16.29.45:589][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-16.29.45:589][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-16.29.45:589][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-16.29.45:589][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.30-16.29.45:589][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-16.29.45:589][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.30-16.29.45:589][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-16.29.45:589][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-16.29.45:589][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-16.29.45:589][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-16.29.45:591][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-16.29.45:607][152]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.04.30-16.29.45:607][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-16.29.45:607][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-16.29.45:611][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-16.29.45:613][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.30-16.29.45:613][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.30-16.29.45:614][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.30-16.29.45:614][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.30-16.29.45:654][152]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.30-16.29.45:654][152]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2024.04.30-16.29.45:654][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.30-16.29.45:656][152]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-16.29.45:664][152]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.30-12.29.45
+[2024.04.30-16.29.45:664][152]LogWorld: Bringing up level for play took: 0.008419
+[2024.04.30-16.29.45:692][152]PIE: Server logged in
+[2024.04.30-16.29.45:692][152]PIE: Play in editor total start time 0.24 seconds.
+[2024.04.30-16.30.01:418][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-16.30.01:418][ 14]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.30-16.30.01:418][ 14]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.01:418][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-16.30.01:418][ 14]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.30-16.30.01:444][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-16.30.01:448][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-16.30.01:462][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-16.30.01:463][ 14]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.30-16.30.01:463][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.30-16.30.01:464][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.30-16.30.01:468][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-16.30.01:472][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.30-16.30.01:577][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2024.04.30-16.30.05:265][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.30-16.30.09:140][446]LogSlate: Window 'Save Content' being destroyed
+[2024.04.30-16.30.09:146][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-16.30.09:186][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ARPG_Warrior_Anim_UE_Attack_Combo1" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo1.uasset" SILENT=true
+[2024.04.30-16.30.09:200][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo1
+[2024.04.30-16.30.09:200][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_Comb98BB947741BC39F64A8429AF8C32CB1E.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo1.uasset'
+[2024.04.30-16.30.09:673][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo1_Montage
+[2024.04.30-16.30.09:674][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombA615069A472562D63A93C49959EC9F02.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo1_Montage.uasset'
+[2024.04.30-16.30.09:674][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ARPG_Warrior_Anim_UE_Attack_Combo2" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo2.uasset" SILENT=true
+[2024.04.30-16.30.09:688][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo2
+[2024.04.30-16.30.09:688][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombB022DC59475D56B11D7DA0B998A49539.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo2.uasset'
+[2024.04.30-16.30.09:690][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo2_Montage
+[2024.04.30-16.30.09:691][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombC8AC4D9E4CAB0BAB497951A31471338E.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo2_Montage.uasset'
+[2024.04.30-16.30.09:692][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo2_Montage
+[2024.04.30-16.30.09:692][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombB5C2A3C14E1D4B5017C0A3BFC85ABB4C.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo2_Montage.uasset'
+[2024.04.30-16.30.09:693][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ARPG_Warrior_Anim_UE_Attack_Combo3" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo3.uasset" SILENT=true
+[2024.04.30-16.30.09:707][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo3
+[2024.04.30-16.30.09:707][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombC9E28CC246ABD171665B52A357D5198A.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo3.uasset'
+[2024.04.30-16.30.09:709][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo3_Montage
+[2024.04.30-16.30.09:709][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombB7D5E0BF4B7A89802870E3AAB6B48940.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo3_Montage.uasset'
+[2024.04.30-16.30.09:711][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo3_Montage
+[2024.04.30-16.30.09:711][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_Comb55F016ED427802573DA36CACE07ACBC1.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo3_Montage.uasset'
+[2024.04.30-16.30.09:711][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ARPG_Warrior_Anim_UE_Attack_Combo4" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo4.uasset" SILENT=true
+[2024.04.30-16.30.09:725][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo4
+[2024.04.30-16.30.09:725][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombD49B15824E1E5CE69C9E71B22E3AEE8E.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo4.uasset'
+[2024.04.30-16.30.09:728][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior_Anim_UE_Attack_Combo4_Montage
+[2024.04.30-16.30.09:728][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_Comb8B119BD04526C850AA13EAB7A33F0631.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior_Anim_UE_Attack_Combo4_Montage.uasset'
+[2024.04.30-16.30.09:729][446]LogSavePackage: Moving output files for package: /Game/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo4_Montage
+[2024.04.30-16.30.09:729][446]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Attack_CombE007399F4A6272CDCE2A8B8E983C7738.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo4_Montage.uasset'
+[2024.04.30-16.30.09:734][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 588 ms (total: 2.68 sec)
+[2024.04.30-16.30.09:744][446]LogStall: Shutdown...
+[2024.04.30-16.30.09:811][446]LogStall: Shutdown complete.
+[2024.04.30-16.30.09:864][446]LogSlate: Window 'IRuleTheNightV1 - Unreal Editor' being destroyed
+[2024.04.30-16.30.10:475][446]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ARPG_Warrior_Anim_UE_Attack_Combo1.ARPG_Warrior_Anim_UE_Attack_Combo1
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ARPG_Warrior_Anim_UE_Attack_Combo1_Montage.ARPG_Warrior_Anim_UE_Attack_Combo1_Montage
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ARPG_Warrior_Anim_UE_Attack_Combo2.ARPG_Warrior_Anim_UE_Attack_Combo2
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ARPG_Warrior_Anim_UE_Attack_Combo2_Montage.ARPG_Warrior_Anim_UE_Attack_Combo2_Montage
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo2_Montage.ARPG_Warrior_Anim_UE_Attack_Combo2_Montage
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ARPG_Warrior_Anim_UE_Attack_Combo3.ARPG_Warrior_Anim_UE_Attack_Combo3
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo3_Montage.ARPG_Warrior_Anim_UE_Attack_Combo3_Montage
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ARPG_Warrior_Anim_UE_Attack_Combo3_Montage.ARPG_Warrior_Anim_UE_Attack_Combo3_Montage
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ARPG_Warrior_Anim_UE_Attack_Combo4.ARPG_Warrior_Anim_UE_Attack_Combo4
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ARPG_Warrior_Anim_UE_Attack_Combo4_Montage.ARPG_Warrior_Anim_UE_Attack_Combo4_Montage
+[2024.04.30-16.30.10:475][446]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ARPG_Warrior/Animations/AnimationMontages/ARPG_Warrior_Anim_UE_Attack_Combo4_Montage.ARPG_Warrior_Anim_UE_Attack_Combo4_Montage
+[2024.04.30-16.30.10:502][446]LogAutomationController: Ignoring very large delta of 5.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.30-16.30.10:505][447]Cmd: QUIT_EDITOR
+[2024.04.30-16.30.10:518][447]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.30-16.30.10:611][447]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.30-16.30.10:646][447]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.30-16.30.10:650][447]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.30-16.30.10:746][447]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.10:746][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-16.30.10:782][447]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.30-16.30.11:403][447]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.30-16.30.12:401][447]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.30-16.30.12:402][447]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.30-16.30.12:402][447]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.04.30-16.30.12:402][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.30-16.30.12:407][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.30-16.30.12:408][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.30-16.30.12:466][447]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.30-16.30.12:467][447]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.30-16.30.12:525][447]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.30-16.30.12:530][447]LogExit: Preparing to exit.
+[2024.04.30-16.30.13:145][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.30-16.30.13:166][447]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:167][447]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:174][447]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:176][447]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:176][447]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:176][447]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:176][447]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:176][447]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:177][447]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:178][447]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.13:178][447]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.30-16.30.16:015][447]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:020][447]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:022][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:022][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:022][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:022][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:022][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:022][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:022][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:022][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:034][447]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:036][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:036][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:036][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:036][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:036][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:036][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:036][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:036][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:037][447]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:038][447]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:039][447]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:041][447]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:042][447]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:043][447]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:044][447]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:045][447]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:046][447]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:047][447]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:048][447]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:049][447]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:051][447]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:052][447]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:053][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:053][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:053][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:053][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:053][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:053][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:053][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:053][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:054][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:054][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:054][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:054][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:054][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:054][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:054][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:054][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:055][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:055][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:055][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:055][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:055][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:055][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:055][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:055][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:056][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:056][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:056][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:056][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:056][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:056][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:056][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:056][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:057][447]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:058][447]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:059][447]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:060][447]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:061][447]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:062][447]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:063][447]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:065][447]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:066][447]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:067][447]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:068][447]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:069][447]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:070][447]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:071][447]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:072][447]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:073][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:073][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:073][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:073][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:073][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:073][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:073][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:073][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:074][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:074][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:074][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:074][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:074][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:074][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:074][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:074][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:075][447]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:076][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:076][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:076][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:076][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:076][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:076][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:076][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:076][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:077][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:077][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:077][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:077][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:077][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:077][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:077][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:077][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:078][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:078][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:078][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:078][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:078][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:078][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:079][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:079][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:079][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:079][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:079][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:079][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:079][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:079][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:080][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:080][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:080][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:080][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:080][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:080][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:081][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:081][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:081][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:081][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.16:107][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:107][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:107][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:107][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:107][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:107][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:107][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.16:107][447]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.17:443][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:443][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:444][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:444][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:444][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:444][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:444][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:444][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.17:445][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:445][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:445][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:445][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:445][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:445][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:445][447]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.30-16.30.17:445][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.17:572][447]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.17:576][447]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-16.30.24:128][447]LogExit: Editor shut down
+[2024.04.30-16.30.24:159][447]LogExit: Transaction tracking system shut down
+[2024.04.30-16.30.25:151][447]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.30-16.30.34:396][447]LogExit: Object subsystem successfully closed.
+[2024.04.30-16.30.34:408][447]LogShaderCompilers: Display: ================================================
+[2024.04.30-16.30.34:425][447]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.30-16.30.34:425][447]LogShaderCompilers: Display: Total job queries 3,932, among them cache hits 68 (1.73%)
+[2024.04.30-16.30.34:425][447]LogShaderCompilers: Display: Tracking 3,860 distinct input hashes that result in 2,727 distinct outputs (70.65%)
+[2024.04.30-16.30.34:425][447]LogShaderCompilers: Display: RAM used: 71.82 MiB of 819.20 MiB budget. Usage: 8.77%
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Shaders Compiled: 3,860
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Jobs assigned 3,860, completed 3,860 (100%)
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Average time worker was idle: 1171.34 s
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Time job spent in pending queue: average 44.62 s, longest 101.68 s
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Job execution time: average 2.17 s, max 8.65 s
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Job life time (pending + execution): average 46.78 s, max 104.82
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Shader code size: average 38.128 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 135.19 s
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Jobs were issued in 627 batches (only local compilation was used), average 6.16 jobs/batch
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Average processing rate: 28.55 jobs/sec
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Total thread time: 884.065 s
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Total thread preprocess time: 68.543 s
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Percentage time preprocessing: 7.75%
+[2024.04.30-16.30.34:427][447]LogShaderCompilers: Display: Effective parallelization: 6.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.16 sec, max 4.00 sec, min 2.39 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.15 sec, max 5.56 sec, min 1.03 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.08 sec, max 2.11 sec, min 0.57 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 0.87 sec, max 1.07 sec, min 0.70 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled   12 times, average 0.82 sec, max 1.76 sec, min 0.06 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.24% of total time (compiled  134 times, average 0.87 sec, max 1.07 sec, min 0.70 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.14% of total time (compiled   96 times, average 0.47 sec, max 0.81 sec, min 0.31 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.29% of total time (compiled   96 times, average 0.40 sec, max 0.59 sec, min 0.10 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 4.02% of total time (compiled   33 times, average 1.08 sec, max 2.11 sec, min 0.57 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.92% of total time (compiled  128 times, average 0.27 sec, max 0.55 sec, min 0.09 sec)
+[2024.04.30-16.30.34:429][447]LogShaderCompilers: Display: ================================================
+[2024.04.30-16.30.34:466][447]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.04.30-16.30.35:172][447]LogVirtualization: UE::Virtualization was shutdown
+[2024.04.30-16.30.48:985][447]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1062)
+[2024.04.30-16.30.49:004][447]LogModuleManager: Shutting down and abandoning module AnimationEditor (1060)
+[2024.04.30-16.30.49:010][447]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1058)
+[2024.04.30-16.30.49:010][447]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1056)
+[2024.04.30-16.30.49:010][447]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1054)
+[2024.04.30-16.30.49:015][447]LogModuleManager: Shutting down and abandoning module Voice (1052)
+[2024.04.30-16.30.49:061][447]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2024.04.30-16.30.49:081][447]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2024.04.30-16.30.49:081][447]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2024.04.30-16.30.49:092][447]LogModuleManager: Shutting down and abandoning module AddContentDialog (1044)
+[2024.04.30-16.30.49:148][447]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1043)
+[2024.04.30-16.30.49:148][447]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2024.04.30-16.30.49:148][447]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2024.04.30-16.30.49:148][447]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2024.04.30-16.30.49:173][447]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2024.04.30-16.30.49:184][447]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.04.30-16.30.49:235][447]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.04.30-16.30.49:235][447]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.04.30-16.30.49:239][447]LogModuleManager: Shutting down and abandoning module SmartSnapping (1026)
+[2024.04.30-16.30.49:249][447]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1024)
+[2024.04.30-16.30.49:320][447]LogModuleManager: Shutting down and abandoning module RigVMEditor (1022)
+[2024.04.30-16.30.49:454][447]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1020)
+[2024.04.30-16.30.49:454][447]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1018)
+[2024.04.30-16.30.49:455][447]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1016)
+[2024.04.30-16.30.49:455][447]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1014)
+[2024.04.30-16.30.49:455][447]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1012)
+[2024.04.30-16.30.49:476][447]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1010)
+[2024.04.30-16.30.49:476][447]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1008)
+[2024.04.30-16.30.49:488][447]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1006)
+[2024.04.30-16.30.49:488][447]LogModuleManager: Shutting down and abandoning module WebMMedia (1004)
+[2024.04.30-16.30.49:494][447]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1002)
+[2024.04.30-16.30.49:557][447]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1000)
+[2024.04.30-16.30.49:781][447]LogModuleManager: Shutting down and abandoning module SequenceRecorder (999)
+[2024.04.30-16.30.49:783][447]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (996)
+[2024.04.30-16.30.49:789][447]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (994)
+[2024.04.30-16.30.49:789][447]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (992)
+[2024.04.30-16.30.49:805][447]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (990)
+[2024.04.30-16.30.49:805][447]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (988)
+[2024.04.30-16.30.49:805][447]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (986)
+[2024.04.30-16.30.49:805][447]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (984)
+[2024.04.30-16.30.49:805][447]LogModuleManager: Shutting down and abandoning module PlanarCut (982)
+[2024.04.30-16.30.49:842][447]LogModuleManager: Shutting down and abandoning module FractureEngine (980)
+[2024.04.30-16.30.49:854][447]LogModuleManager: Shutting down and abandoning module CharacterAI (978)
+[2024.04.30-16.30.49:874][447]LogModuleManager: Shutting down and abandoning module IKRigEditor (976)
+[2024.04.30-16.30.49:902][447]LogModuleManager: Shutting down and abandoning module ControlRigEditor (974)
+[2024.04.30-16.30.50:002][447]LogModuleManager: Shutting down and abandoning module TextureAlignMode (972)
+[2024.04.30-16.30.50:011][447]LogModuleManager: Shutting down and abandoning module BspMode (970)
+[2024.04.30-16.30.50:048][447]LogModuleManager: Shutting down and abandoning module GeometryMode (968)
+[2024.04.30-16.30.50:103][447]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (966)
+[2024.04.30-16.30.50:132][447]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (964)
+[2024.04.30-16.30.50:133][447]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (962)
+[2024.04.30-16.30.50:256][447]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (960)
+[2024.04.30-16.30.50:294][447]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (958)
+[2024.04.30-16.30.50:378][447]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.04.30-16.30.50:379][447]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.04.30-16.30.50:411][447]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.04.30-16.30.50:453][447]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.04.30-16.30.50:472][447]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.04.30-16.30.50:520][447]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.04.30-16.30.50:590][447]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.04.30-16.30.50:600][447]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.04.30-16.30.50:600][447]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.04.30-16.30.50:600][447]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.04.30-16.30.50:609][447]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.04.30-16.30.50:609][447]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.04.30-16.30.50:620][447]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.04.30-16.30.50:620][447]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.04.30-16.30.50:649][447]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.04.30-16.30.50:744][447]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.04.30-16.30.50:755][447]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.04.30-16.30.50:760][447]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.04.30-16.30.50:802][447]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.04.30-16.30.51:313][447]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.04.30-16.30.51:318][447]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.04.30-16.30.51:327][447]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.04.30-16.30.51:327][447]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.04.30-16.30.51:327][447]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.04.30-16.30.51:353][447]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.04.30-16.30.51:402][447]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.04.30-16.30.51:402][447]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.04.30-16.30.51:406][447]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.04.30-16.30.51:409][447]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.04.30-16.30.51:422][447]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.04.30-16.30.51:422][447]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.04.30-16.30.51:422][447]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.04.30-16.30.51:481][447]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.04.30-16.30.51:568][447]MemoryProfiler: Shutdown
+[2024.04.30-16.30.51:579][447]NetworkingProfiler: Shutdown
+[2024.04.30-16.30.51:579][447]LoadingProfiler: Shutdown
+[2024.04.30-16.30.51:580][447]TimingProfiler: Shutdown
+[2024.04.30-16.30.51:586][447]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.04.30-16.30.51:663][447]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.04.30-16.30.51:664][447]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.04.30-16.30.51:664][447]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.04.30-16.30.51:664][447]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.04.30-16.30.51:714][447]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.04.30-16.30.51:721][447]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.04.30-16.30.51:728][447]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.04.30-16.30.51:740][447]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.04.30-16.30.51:748][447]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.04.30-16.30.51:759][447]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.04.30-16.30.51:783][447]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.04.30-16.30.51:788][447]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.04.30-16.30.51:822][447]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.04.30-16.30.51:825][447]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.04.30-16.30.51:826][447]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.04.30-16.30.51:833][447]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.04.30-16.30.51:845][447]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.04.30-16.30.51:905][447]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.04.30-16.30.51:920][447]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.04.30-16.30.51:934][447]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.04.30-16.30.51:945][447]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.04.30-16.30.51:974][447]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.04.30-16.30.51:988][447]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.04.30-16.30.52:012][447]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.04.30-16.30.52:028][447]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.04.30-16.30.52:037][447]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.04.30-16.30.52:084][447]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.04.30-16.30.52:085][447]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.04.30-16.30.52:178][447]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.04.30-16.30.52:207][447]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.04.30-16.30.52:207][447]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.04.30-16.30.52:297][447]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.04.30-16.30.52:297][447]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.04.30-16.30.52:297][447]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.04.30-16.30.52:309][447]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.04.30-16.30.52:326][447]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.04.30-16.30.52:435][447]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.04.30-16.30.52:444][447]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.04.30-16.30.52:448][447]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.04.30-16.30.52:454][447]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.04.30-16.30.52:454][447]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.04.30-16.30.52:489][447]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.04.30-16.30.52:505][447]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.04.30-16.30.52:632][447]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.04.30-16.30.52:646][447]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.04.30-16.30.52:654][447]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.04.30-16.30.52:682][447]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.04.30-16.30.52:682][447]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.04.30-16.30.52:687][447]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.04.30-16.30.52:719][447]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.04.30-16.30.52:760][447]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.04.30-16.30.52:760][447]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.04.30-16.30.52:760][447]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.04.30-16.30.52:773][447]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.04.30-16.30.52:894][447]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.04.30-16.30.52:918][447]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (762)
+[2024.04.30-16.30.52:918][447]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (760)
+[2024.04.30-16.30.52:939][447]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (758)
+[2024.04.30-16.30.53:003][447]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (756)
+[2024.04.30-16.30.53:016][447]LogModuleManager: Shutting down and abandoning module TakesCore (754)
+[2024.04.30-16.30.53:065][447]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.04.30-16.30.53:137][447]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.04.30-16.30.53:166][447]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2024.04.30-16.30.53:192][447]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (746)
+[2024.04.30-16.30.53:192][447]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (744)
+[2024.04.30-16.30.53:192][447]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (742)
+[2024.04.30-16.30.53:192][447]LogModuleManager: Shutting down and abandoning module CollectionManager (741)
+[2024.04.30-16.30.53:215][447]LogModuleManager: Shutting down and abandoning module LightMixer (738)
+[2024.04.30-16.30.53:352][447]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (736)
+[2024.04.30-16.30.53:353][447]LogModuleManager: Shutting down and abandoning module VariantManager (734)
+[2024.04.30-16.30.53:403][447]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (732)
+[2024.04.30-16.30.53:403][447]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (730)
+[2024.04.30-16.30.53:420][447]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (728)
+[2024.04.30-16.30.53:420][447]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (726)
+[2024.04.30-16.30.53:420][447]LogModuleManager: Shutting down and abandoning module Paper2DEditor (724)
+[2024.04.30-16.30.53:445][447]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (722)
+[2024.04.30-16.30.53:487][447]LogModuleManager: Shutting down and abandoning module InterchangeTests (720)
+[2024.04.30-16.30.53:503][447]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (718)
+[2024.04.30-16.30.53:553][447]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (716)
+[2024.04.30-16.30.53:557][447]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (714)
+[2024.04.30-16.30.53:558][447]LogModuleManager: Shutting down and abandoning module InterchangeExport (712)
+[2024.04.30-16.30.53:558][447]LogModuleManager: Shutting down and abandoning module InterchangeMessages (710)
+[2024.04.30-16.30.53:558][447]LogModuleManager: Shutting down and abandoning module GLTFCore (708)
+[2024.04.30-16.30.53:592][447]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (706)
+[2024.04.30-16.30.53:592][447]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (704)
+[2024.04.30-16.30.53:604][447]LogModuleManager: Shutting down and abandoning module InterchangeEditor (702)
+[2024.04.30-16.30.53:604][447]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (700)
+[2024.04.30-16.30.53:613][447]LogModuleManager: Shutting down and abandoning module UObjectPlugin (698)
+[2024.04.30-16.30.53:613][447]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (696)
+[2024.04.30-16.30.53:616][447]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (694)
+[2024.04.30-16.30.53:634][447]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (692)
+[2024.04.30-16.30.53:652][447]LogModuleManager: Shutting down and abandoning module PluginUtils (690)
+[2024.04.30-16.30.53:659][447]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (688)
+[2024.04.30-16.30.53:663][447]LogModuleManager: Shutting down and abandoning module GitSourceControl (686)
+[2024.04.30-16.30.53:690][447]LogModuleManager: Shutting down and abandoning module DumpGPUServices (684)
+[2024.04.30-16.30.53:698][447]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (682)
+[2024.04.30-16.30.53:704][447]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (680)
+[2024.04.30-16.30.53:704][447]LogModuleManager: Shutting down and abandoning module SynthesisEditor (678)
+[2024.04.30-16.30.53:704][447]LogModuleManager: Shutting down and abandoning module ResonanceAudio (676)
+[2024.04.30-16.30.53:722][447]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (674)
+[2024.04.30-16.30.53:730][447]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (672)
+[2024.04.30-16.30.53:730][447]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (670)
+[2024.04.30-16.30.53:730][447]LogModuleManager: Shutting down and abandoning module ModelingOperators (668)
+[2024.04.30-16.30.53:747][447]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (666)
+[2024.04.30-16.30.53:758][447]LogModuleManager: Shutting down and abandoning module ModelingComponents (664)
+[2024.04.30-16.30.53:767][447]LogModuleManager: Shutting down and abandoning module GeometryFramework (663)
+[2024.04.30-16.30.53:777][447]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (660)
+[2024.04.30-16.30.53:820][447]LogModuleManager: Shutting down and abandoning module MeshModelingTools (658)
+[2024.04.30-16.30.53:830][447]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (656)
+[2024.04.30-16.30.53:879][447]LogModuleManager: Shutting down and abandoning module InputDebugging (654)
+[2024.04.30-16.30.53:885][447]LogModuleManager: Shutting down and abandoning module GooglePAD (652)
+[2024.04.30-16.30.53:885][447]LogModuleManager: Shutting down and abandoning module DynamicMesh (650)
+[2024.04.30-16.30.53:899][447]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (648)
+[2024.04.30-16.30.53:909][447]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (646)
+[2024.04.30-16.30.53:923][447]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (644)
+[2024.04.30-16.30.53:931][447]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (642)
+[2024.04.30-16.30.53:945][447]LogModuleManager: Shutting down and abandoning module AudioCapture (640)
+[2024.04.30-16.30.53:945][447]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (639)
+[2024.04.30-16.30.53:950][447]LogModuleManager: Shutting down and abandoning module AssetTags (636)
+[2024.04.30-16.30.53:950][447]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (634)
+[2024.04.30-16.30.53:950][447]LogModuleManager: Shutting down and abandoning module AndroidPermission (632)
+[2024.04.30-16.30.53:950][447]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (630)
+[2024.04.30-16.30.53:950][447]LogModuleManager: Shutting down and abandoning module AppleImageUtils (628)
+[2024.04.30-16.30.53:950][447]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (626)
+[2024.04.30-16.30.53:962][447]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (624)
+[2024.04.30-16.30.53:962][447]LogModuleManager: Shutting down and abandoning module TakeSequencer (622)
+[2024.04.30-16.30.53:962][447]LogModuleManager: Shutting down and abandoning module TakeMovieScene (620)
+[2024.04.30-16.30.53:962][447]LogModuleManager: Shutting down and abandoning module AlembicImporter (618)
+[2024.04.30-16.30.54:028][447]LogModuleManager: Shutting down and abandoning module AlembicLibrary (617)
+[2024.04.30-16.30.54:066][447]LogModuleManager: Shutting down and abandoning module GeometryCache (616)
+[2024.04.30-16.30.54:070][447]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (615)
+[2024.04.30-16.30.54:070][447]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (610)
+[2024.04.30-16.30.54:164][447]LogModuleManager: Shutting down and abandoning module MediaPlate (608)
+[2024.04.30-16.30.54:174][447]LogModuleManager: Shutting down and abandoning module MediaCompositing (606)
+[2024.04.30-16.30.54:174][447]LogModuleManager: Shutting down and abandoning module ImgMedia (604)
+[2024.04.30-16.30.54:182][447]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (602)
+[2024.04.30-16.30.54:191][447]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (600)
+[2024.04.30-16.30.54:191][447]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (598)
+[2024.04.30-16.30.54:198][447]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (596)
+[2024.04.30-16.30.54:198][447]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (594)
+[2024.04.30-16.30.54:203][447]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (592)
+[2024.04.30-16.30.54:203][447]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (590)
+[2024.04.30-16.30.54:203][447]LogOpenImageDenoise: OIDN shutting down
+[2024.04.30-16.30.54:209][447]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (588)
+[2024.04.30-16.30.54:209][447]LogModuleManager: Shutting down and abandoning module LocalizableMessage (586)
+[2024.04.30-16.30.54:266][447]LogModuleManager: Shutting down and abandoning module MeshLODToolset (584)
+[2024.04.30-16.30.54:273][447]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (582)
+[2024.04.30-16.30.54:273][447]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (580)
+[2024.04.30-16.30.54:288][447]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (578)
+[2024.04.30-16.30.54:337][447]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (576)
+[2024.04.30-16.30.54:349][447]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (574)
+[2024.04.30-16.30.54:363][447]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (572)
+[2024.04.30-16.30.54:408][447]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (570)
+[2024.04.30-16.30.54:428][447]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (568)
+[2024.04.30-16.30.54:432][447]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (566)
+[2024.04.30-16.30.54:470][447]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (564)
+[2024.04.30-16.30.54:470][447]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (563)
+[2024.04.30-16.30.54:470][447]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (561)
+[2024.04.30-16.30.54:510][447]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (558)
+[2024.04.30-16.30.54:556][447]LogModuleManager: Shutting down and abandoning module DataflowNodes (556)
+[2024.04.30-16.30.54:584][447]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (554)
+[2024.04.30-16.30.54:605][447]LogModuleManager: Shutting down and abandoning module DataflowEditor (552)
+[2024.04.30-16.30.54:658][447]LogModuleManager: Shutting down and abandoning module ChaosNiagara (550)
+[2024.04.30-16.30.54:689][447]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (548)
+[2024.04.30-16.30.54:689][447]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (546)
+[2024.04.30-16.30.54:703][447]LogModuleManager: Shutting down and abandoning module FractureEditor (544)
+[2024.04.30-16.30.54:885][447]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (542)
+[2024.04.30-16.30.54:978][447]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (540)
+[2024.04.30-16.30.54:978][447]LogModuleManager: Shutting down and abandoning module AutomationUtils (538)
+[2024.04.30-16.30.54:988][447]LogModuleManager: Shutting down and abandoning module BackChannel (536)
+[2024.04.30-16.30.55:015][447]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (534)
+[2024.04.30-16.30.55:015][447]LogModuleManager: Shutting down and abandoning module ControlRigSpline (532)
+[2024.04.30-16.30.55:099][447]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (530)
+[2024.04.30-16.30.55:163][447]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (528)
+[2024.04.30-16.30.55:179][447]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (526)
+[2024.04.30-16.30.55:179][447]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (524)
+[2024.04.30-16.30.55:189][447]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (522)
+[2024.04.30-16.30.55:228][447]LogModuleManager: Shutting down and abandoning module UVEditorTools (520)
+[2024.04.30-16.30.55:311][447]LogModuleManager: Shutting down and abandoning module UVEditor (518)
+[2024.04.30-16.30.55:453][447]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (516)
+[2024.04.30-16.30.55:470][447]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (514)
+[2024.04.30-16.30.55:470][447]LogModuleManager: Shutting down and abandoning module PluginBrowser (512)
+[2024.04.30-16.30.55:534][447]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (510)
+[2024.04.30-16.30.55:544][447]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (508)
+[2024.04.30-16.30.55:688][447]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (506)
+[2024.04.30-16.30.55:700][447]LogModuleManager: Shutting down and abandoning module EditorDebugTools (504)
+[2024.04.30-16.30.55:735][447]LogModuleManager: Shutting down and abandoning module CurveEditorTools (502)
+[2024.04.30-16.30.55:775][447]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (500)
+[2024.04.30-16.30.55:775][447]LogModuleManager: Shutting down and abandoning module CryptoKeys (498)
+[2024.04.30-16.30.55:785][447]LogModuleManager: Shutting down and abandoning module ChangelistReview (496)
+[2024.04.30-16.30.55:806][447]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (494)
+[2024.04.30-16.30.55:825][447]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (492)
+[2024.04.30-16.30.55:825][447]LogModuleManager: Shutting down and abandoning module SequencerScripting (490)
+[2024.04.30-16.30.55:825][447]LogModuleManager: Shutting down and abandoning module TemplateSequence (488)
+[2024.04.30-16.30.55:852][447]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (484)
+[2024.04.30-16.30.55:852][447]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (482)
+[2024.04.30-16.30.56:007][447]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.04.30-16.30.56:007][447]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.04.30-16.30.56:007][447]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.04.30-16.30.56:021][447]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.04.30-16.30.56:054][447]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.04.30-16.30.56:112][447]LogModuleManager: Shutting down and abandoning module Paper2D (470)
+[2024.04.30-16.30.56:133][447]LogModuleManager: Shutting down and abandoning module UdpMessaging (468)
+[2024.04.30-16.30.56:319][447]LogModuleManager: Shutting down and abandoning module TcpMessaging (466)
+[2024.04.30-16.30.56:440][447]LogModuleManager: Shutting down and abandoning module InterchangePipelines (464)
+[2024.04.30-16.30.56:475][447]LogModuleManager: Shutting down and abandoning module InterchangeImport (462)
+[2024.04.30-16.30.56:510][447]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (460)
+[2024.04.30-16.30.56:527][447]LogModuleManager: Shutting down and abandoning module InterchangeNodes (458)
+[2024.04.30-16.30.56:545][447]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (456)
+[2024.04.30-16.30.56:564][447]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (454)
+[2024.04.30-16.30.56:583][447]LogModuleManager: Shutting down and abandoning module AnimationSharing (452)
+[2024.04.30-16.30.56:583][447]LogModuleManager: Shutting down and abandoning module SoundFields (450)
+[2024.04.30-16.30.56:583][447]LogModuleManager: Shutting down and abandoning module Synthesis (448)
+[2024.04.30-16.30.56:616][447]LogModuleManager: Shutting down and abandoning module SignificanceManager (446)
+[2024.04.30-16.30.56:616][447]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (444)
+[2024.04.30-16.30.56:681][447]LogModuleManager: Shutting down and abandoning module RigVM (442)
+[2024.04.30-16.30.56:681][447]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (440)
+[2024.04.30-16.30.56:744][447]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (438)
+[2024.04.30-16.30.56:760][447]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (436)
+[2024.04.30-16.30.56:760][447]LogModuleManager: Shutting down and abandoning module MetasoundEditor (434)
+[2024.04.30-16.30.56:807][447]LogModuleManager: Shutting down and abandoning module AudioWidgets (433)
+[2024.04.30-16.30.56:817][447]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (432)
+[2024.04.30-16.30.56:842][447]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (428)
+[2024.04.30-16.30.56:853][447]LogModuleManager: Shutting down and abandoning module MetasoundEngine (426)
+[2024.04.30-16.30.56:868][447]LogModuleManager: Shutting down and abandoning module WaveTable (425)
+[2024.04.30-16.30.56:868][447]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (423)
+[2024.04.30-16.30.56:879][447]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (420)
+[2024.04.30-16.30.56:894][447]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (418)
+[2024.04.30-16.30.56:959][447]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (416)
+[2024.04.30-16.30.56:976][447]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (414)
+[2024.04.30-16.30.56:978][447]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (412)
+[2024.04.30-16.30.56:978][447]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2024.04.30-16.30.56:978][447]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2024.04.30-16.30.56:980][447]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (406)
+[2024.04.30-16.30.56:980][447]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (405)
+[2024.04.30-16.30.57:003][447]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (402)
+[2024.04.30-16.30.57:015][447]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (400)
+[2024.04.30-16.30.57:015][447]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (398)
+[2024.04.30-16.30.57:034][447]LogModuleManager: Shutting down and abandoning module StructUtils (396)
+[2024.04.30-16.30.57:034][447]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (394)
+[2024.04.30-16.30.57:089][447]LogModuleManager: Shutting down and abandoning module PBIK (392)
+[2024.04.30-16.30.57:089][447]LogModuleManager: Shutting down and abandoning module FullBodyIK (390)
+[2024.04.30-16.30.57:113][447]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (388)
+[2024.04.30-16.30.57:113][447]LogModuleManager: Shutting down and abandoning module TakeRecorder (387)
+[2024.04.30-16.30.57:139][447]LogModuleManager: Shutting down and abandoning module ChaosCaching (384)
+[2024.04.30-16.30.57:145][447]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (382)
+[2024.04.30-16.30.57:145][447]LogModuleManager: Shutting down and abandoning module IKRig (380)
+[2024.04.30-16.30.57:152][447]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (378)
+[2024.04.30-16.30.57:158][447]LogModuleManager: Shutting down and abandoning module ControlRig (376)
+[2024.04.30-16.30.57:165][447]LogModuleManager: Shutting down and abandoning module Constraints (375)
+[2024.04.30-16.30.57:209][447]LogModuleManager: Shutting down and abandoning module AnimationData (372)
+[2024.04.30-16.30.57:225][447]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (370)
+[2024.04.30-16.30.57:265][447]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (368)
+[2024.04.30-16.30.57:279][447]LogModuleManager: Shutting down and abandoning module FacialAnimation (366)
+[2024.04.30-16.30.57:279][447]LogModuleManager: Shutting down and abandoning module DataValidation (364)
+[2024.04.30-16.30.57:286][447]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (362)
+[2024.04.30-16.30.57:311][447]LogModuleManager: Shutting down and abandoning module LevelEditor (361)
+[2024.04.30-16.30.57:468][447]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (360)
+[2024.04.30-16.30.57:496][447]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (358)
+[2024.04.30-16.30.57:509][447]LogModuleManager: Shutting down and abandoning module MainFrame (356)
+[2024.04.30-16.30.57:520][447]LogModuleManager: Shutting down and abandoning module HotReload (355)
+[2024.04.30-16.30.57:533][447]LogModuleManager: Shutting down and abandoning module TreeMap (351)
+[2024.04.30-16.30.57:543][447]LogModuleManager: Shutting down and abandoning module ActorSequence (348)
+[2024.04.30-16.30.57:543][447]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (346)
+[2024.04.30-16.30.57:543][447]LogModuleManager: Shutting down and abandoning module Niagara (344)
+[2024.04.30-16.30.57:599][447]LogModuleManager: Shutting down and abandoning module SignalProcessing (343)
+[2024.04.30-16.30.57:608][447]LogModuleManager: Shutting down and abandoning module NiagaraEditor (341)
+[2024.04.30-16.30.57:644][447]LogModuleManager: Shutting down and abandoning module LevelSequence (340)
+[2024.04.30-16.30.57:644][447]LogModuleManager: Shutting down and abandoning module ContentBrowser (338)
+[2024.04.30-16.30.57:652][447]LogModuleManager: Shutting down and abandoning module ToolMenus (337)
+[2024.04.30-16.30.57:652][447]LogModuleManager: Shutting down and abandoning module ContentBrowserData (335)
+[2024.04.30-16.30.57:652][447]LogModuleManager: Shutting down and abandoning module NiagaraCore (330)
+[2024.04.30-16.30.57:652][447]LogModuleManager: Shutting down and abandoning module GameplayCameras (328)
+[2024.04.30-16.30.57:691][447]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.04.30-16.30.57:691][447]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.04.30-16.30.57:708][447]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.04.30-16.30.57:713][447]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.04.30-16.30.57:975][447]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.04.30-16.30.57:984][447]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.04.30-16.30.57:984][447]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.04.30-16.30.57:993][447]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.04.30-16.30.57:993][447]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.04.30-16.30.58:008][447]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.04.30-16.30.58:017][447]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.04.30-16.30.58:020][447]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.04.30-16.30.58:020][447]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.04.30-16.30.58:028][447]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.04.30-16.30.58:028][447]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.04.30-16.30.58:035][447]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.04.30-16.30.58:035][447]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.04.30-16.30.58:035][447]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.04.30-16.30.58:050][447]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.04.30-16.30.58:070][447]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.04.30-16.30.58:070][447]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.04.30-16.30.58:091][447]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.04.30-16.30.58:100][447]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.04.30-16.30.58:111][447]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.04.30-16.30.58:214][447]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.04.30-16.30.58:220][447]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.04.30-16.30.58:234][447]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.04.30-16.30.58:260][447]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.04.30-16.30.58:272][447]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.04.30-16.30.58:306][447]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.04.30-16.30.58:306][447]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.04.30-16.30.58:307][447]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.04.30-16.30.58:308][447]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.04.30-16.30.58:308][447]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.04.30-16.30.58:308][447]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.04.30-16.30.58:308][447]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.04.30-16.30.58:308][447]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.04.30-16.30.58:314][447]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.04.30-16.30.58:314][447]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.04.30-16.30.58:359][447]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.04.30-16.30.58:359][447]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.04.30-16.30.58:359][447]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.04.30-16.30.58:359][447]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.04.30-16.30.58:456][447]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.04.30-16.30.58:497][447]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.04.30-16.30.58:593][447]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.04.30-16.30.58:593][447]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.04.30-16.30.58:614][447]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.04.30-16.30.58:630][447]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.04.30-16.30.58:675][447]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.04.30-16.30.58:692][447]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.04.30-16.30.58:692][447]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.04.30-16.30.58:692][447]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.04.30-16.30.58:692][447]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.04.30-16.30.58:707][447]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.04.30-16.30.58:723][447]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.04.30-16.30.58:806][447]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.04.30-16.30.58:824][447]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.04.30-16.30.58:853][447]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.04.30-16.30.58:883][447]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.04.30-16.30.58:883][447]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.04.30-16.30.58:883][447]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.04.30-16.30.58:935][447]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.04.30-16.30.59:003][447]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.04.30-16.30.59:004][447]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.04.30-16.30.59:016][447]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.04.30-16.30.59:047][447]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.04.30-16.30.59:054][447]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.04.30-16.30.59:054][447]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.04.30-16.30.59:065][447]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.04.30-16.30.59:068][447]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.04.30-16.30.59:071][447]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.04.30-16.30.59:072][447]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.04.30-16.30.59:072][447]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.04.30-16.30.59:080][447]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.04.30-16.30.59:091][447]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.04.30-16.30.59:092][447]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.04.30-16.30.59:097][447]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.04.30-16.30.59:105][447]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.04.30-16.30.59:105][447]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.04.30-16.30.59:109][447]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.04.30-16.30.59:120][447]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.04.30-16.30.59:120][447]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.04.30-16.30.59:201][447]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.04.30-16.30.59:208][447]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.04.30-16.30.59:209][447]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.04.30-16.30.59:209][447]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.04.30-16.30.59:209][447]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.04.30-16.30.59:209][447]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.04.30-16.30.59:222][447]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.04.30-16.30.59:222][447]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.04.30-16.30.59:222][447]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.04.30-16.30.59:224][447]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.04.30-16.30.59:224][447]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.04.30-16.30.59:224][447]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.04.30-16.30.59:224][447]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.04.30-16.30.59:232][447]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.04.30-16.30.59:237][447]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.04.30-16.30.59:240][447]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.04.30-16.30.59:244][447]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.04.30-16.30.59:244][447]LogModuleManager: Shutting down and abandoning module VariantManagerContent (122)
+[2024.04.30-16.30.59:244][447]LogModuleManager: Shutting down and abandoning module GLTFExporter (120)
+[2024.04.30-16.30.59:250][447]LogModuleManager: Shutting down and abandoning module DatasmithContent (118)
+[2024.04.30-16.30.59:250][447]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (116)
+[2024.04.30-16.30.59:257][447]RenderDocPlugin: plugin has been unloaded.
+[2024.04.30-16.30.59:257][447]LogModuleManager: Shutting down and abandoning module PixWinPlugin (114)
+[2024.04.30-16.30.59:269][447]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (112)
+[2024.04.30-16.30.59:269][447]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (110)
+[2024.04.30-16.30.59:269][447]LogModuleManager: Shutting down and abandoning module ChunkDownloader (108)
+[2024.04.30-16.30.59:288][447]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (106)
+[2024.04.30-16.30.59:288][447]LogModuleManager: Shutting down and abandoning module WmfMedia (104)
+[2024.04.30-16.30.59:310][447]LogModuleManager: Shutting down and abandoning module Media (103)
+[2024.04.30-16.30.59:313][447]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (100)
+[2024.04.30-16.30.59:319][447]LogModuleManager: Shutting down and abandoning module AISupportModule (98)
+[2024.04.30-16.30.59:319][447]LogModuleManager: Shutting down and abandoning module ChaosCloth (96)
+[2024.04.30-16.30.59:336][447]LogModuleManager: Shutting down and abandoning module ACLPlugin (94)
+[2024.04.30-16.30.59:344][447]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2024.04.30-16.30.59:344][447]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (90)
+[2024.04.30-16.30.59:356][447]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2024.04.30-16.30.59:405][447]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2024.04.30-16.30.59:409][447]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2024.04.30-16.30.59:414][447]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2024.04.30-16.30.59:451][447]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2024.04.30-16.30.59:490][447]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2024.04.30-16.30.59:559][447]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2024.04.30-16.30.59:559][447]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.04.30-16.30.59:559][447]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66D51BEE-4B83-4C79-0B00-B28B36265E0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a55ab3a46708324964401b1a0ae16a9%7C2aeb601cdd554c49a52f009405700a99%7Cc3d533ec-e017-429a-adc3-2c83fe8bb6ed&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.04.30-16.30.59:634][447]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2024.04.30-16.30.59:637][447]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2024.04.30-16.30.59:661][447]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2024.04.30-16.30.59:661][447]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.04.30-16.30.59:661][447]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.04.30-16.30.59:706][447]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.04.30-16.30.59:739][447]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.04.30-16.30.59:740][447]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.04.30-16.30.59:740][447]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.04.30-16.30.59:750][447]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.04.30-16.30.59:750][447]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.04.30-16.30.59:750][447]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.04.30-16.30.59:778][447]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.04.30-16.30.59:798][447]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.04.30-16.30.59:798][447]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.04.30-16.30.59:821][447]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.04.30-16.30.59:892][447]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.04.30-16.31.00:159][447]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.04.30-16.31.00:159][447]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.04.30-16.31.00:159][447]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.04.30-16.31.00:159][447]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.04.30-16.31.00:184][447]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.04.30-16.31.00:184][447]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.04.30-16.31.00:196][447]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.04.30-16.31.00:256][447]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.04.30-16.31.00:256][447]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.04.30-16.31.00:258][447]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.04.30-16.31.00:263][447]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.04.30-16.31.00:263][447]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.04.30-16.31.00:294][447]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.04.30-16.31.00:307][447]LogPakFile: Destroying PakPlatformFile
+[2024.04.30-16.31.00:307][447]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.04.30-16.31.00:307][447]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.04.30-16.31.00:317][447]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.04.30-16.31.00:317][447]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.04.30-16.31.00:323][447]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.04.30-16.31.01:170][447]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.04.30-16.31.01:389][447]LogExit: Exiting.
+[2024.04.30-16.31.01:402][447]Log file closed, 04/30/24 12:31:01
