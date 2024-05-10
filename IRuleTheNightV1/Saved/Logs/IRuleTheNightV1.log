@@ -7053,3 +7053,11 @@ Script Stack (1 frames) :
 [2024.05.10-20.32.49:684][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
 [2024.05.10-20.32.49:691][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2024.05.10-20.32.49:756][628]LogPlayLevel: Display: Destroying online subsystem :Context_196
+[2024.05.10-20.33.25:795][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.10-20.33.25:800][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2024.05.10-20.33.25:800][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.10-20.33.25:960][266]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.10-20.33.25:960][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.10-20.33.25:990][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2024.05.10-20.33.25:991][266]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_ThirdPersonCharacter_Auto01228069244639C07348468ADCBEA40CA.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2024.05.10-20.33.25:991][266]LogFileHelpers: Auto-saving content packages took 0.192
