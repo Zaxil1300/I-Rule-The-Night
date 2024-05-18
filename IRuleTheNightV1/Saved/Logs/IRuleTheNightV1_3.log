@@ -6440,3 +6440,81 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Player Hit
 [2024.05.17-00.23.47:941][444]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fe16613f-e09d-46b7-8bd7-8d87add6a689}, Name=Speakers (Yeti Stereo Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=70.98
 [2024.05.17-00.23.47:941][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2024.05.17-00.23.47:942][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.17-00.28.41:354][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.05.17-00.28.41:367][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.05.17-00.28.41:367][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.17-00.28.41:487][506]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.17-00.28.41:487][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.17-00.28.41:520][506]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9
+[2024.05.17-00.28.41:520][506]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_ThirdPersonCharacter_Auto99C3A985C40F2B5DEF9B91A85AD1F8159.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9.uasset'
+[2024.05.17-00.28.41:521][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_EnemyCharacter] ([2] browsable assets)...
+[2024.05.17-00.28.41:521][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_EnemyCharacter]
+[2024.05.17-00.28.41:525][506]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_EnemyCharacter_Auto9
+[2024.05.17-00.28.41:525][506]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_EnemyCharacter_Auto9E29D28974F5431C30EDFF0A900CE483B.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_EnemyCharacter_Auto9.uasset'
+[2024.05.17-00.28.41:526][506]LogFileHelpers: Auto-saving content packages took 0.159
+[2024.05.17-00.42.14:292][945]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-01.42.14:327][744]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.100 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-02.42.14:331][541]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.104 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-03.42.14:347][339]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.120 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-04.42.14:331][136]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.104 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-05.42.14:344][934]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.116 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-06.42.14:383][731]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.155 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-07.42.14:384][529]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.154 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-08.42.14:380][326]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.151 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-09.42.14:388][124]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.159 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-10.42.14:359][922]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.130 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-11.42.14:372][719]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-12.42.14:371][517]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-13.42.14:409][314]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-14.42.14:374][112]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.143 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-15.42.14:385][909]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.154 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-16.42.14:378][707]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-17.42.14:390][504]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.158 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-18.42.14:378][301]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.146 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30177 files in 31304 folders with total size 8611 MiB.
+[2024.05.17-19.10.27:679][376]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SMT27A300 (NVIDIA High Definition Audio), InstanceID=1
+[2024.05.17-19.10.27:908][376]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17624
+[2024.05.17-19.10.28:243][377]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a96865b-4f97-4a42-a23b-109bbd0841ab}, Name=SMT27A300 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.10
+[2024.05.17-19.10.28:243][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.17-19.10.28:244][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.17-19.13.16:418][700]LogSlate: Window 'Message' being destroyed
+[2024.05.17-19.13.16:421][700]Message dialog closed, result: Cancel, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2024.05.17-19.13.48:230][624]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [23 Seconds] waiting for h/w. InstanceID=1
+[2024.05.17-19.13.48:230][624]LogWindows: Error: === Critical error: ===
+[2024.05.17-19.13.48:230][624]LogWindows: Error: 
+[2024.05.17-19.13.48:230][624]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000018
+[2024.05.17-19.13.48:230][624]LogWindows: Error: 
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae54a628 UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffbb6d3820 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae54f7bf UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae54e3e8 UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae51452e UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae514aae UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae53eb51 UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae560a07 UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffae5728fa UnrealEditor-ClassViewer.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a04f9f UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a066f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a027ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a05925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6dba560 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a05925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a01ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6dba374 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a05925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc788a299 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc78b53ad UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc7a36cec UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6a6f615 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6a6fb26 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6a9518e UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6a6fc61 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6ab7514 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007fffc6ab6be2 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007ff659d49d0f UnrealEditor.exe!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007ff659d6d28c UnrealEditor.exe!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007ff659d6d37a UnrealEditor.exe!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007ff659d70854 UnrealEditor.exe!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007ff659d86984 UnrealEditor.exe!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007ff659d89d7a UnrealEditor.exe!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: [Callstack] 0x00007ff857f57344 KERNEL32.DLL!UnknownFunction []
+[2024.05.17-19.13.48:230][624]LogWindows: Error: 
