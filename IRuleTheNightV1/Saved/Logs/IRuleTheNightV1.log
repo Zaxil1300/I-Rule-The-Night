@@ -23062,3 +23062,27 @@ Script Stack (0 frames) :
 [2024.05.30-05.18.03:232][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
 [2024.05.30-05.18.03:239][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2024.05.30-05.18.03:307][458]LogPlayLevel: Display: Destroying online subsystem :Context_433
+[2024.05.30-05.18.37:927][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.30-05.18.37:932][715]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2024.05.30-05.18.37:933][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.30-05.18.38:104][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.30-05.18.38:104][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.30-05.18.38:163][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.05.30-05.18.38:163][715]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_ThirdPersonCharacter_Auto2764174F34ED59AF7BA6D42B78C55C1C1.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.05.30-05.18.38:164][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy_Blueprints/Vampire_Enemy_Blueprint] ([2] browsable assets)...
+[2024.05.30-05.18.38:179][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy_Blueprints/Vampire_Enemy_Blueprint.Vampire_Enemy_Blueprint]
+[2024.05.30-05.18.38:179][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy_Blueprints/Vampire_Enemy_Blueprint]
+[2024.05.30-05.18.38:215][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy_Blueprints/Vampire_Enemy_Blueprint_Auto2
+[2024.05.30-05.18.38:215][715]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/Vampire_Enemy_Blueprint_Auto2CC23CF6E46F05E8145D231B568DEF58F.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/Autosaves/Game/Enemy_Blueprints/Vampire_Enemy_Blueprint_Auto2.uasset'
+[2024.05.30-05.18.38:216][715]LogFileHelpers: Auto-saving content packages took 0.284
+[2024.05.30-05.18.54:932][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.30-05.18.55:970][ 23]LogSlate: Window 'Save Content' being destroyed
+[2024.05.30-05.18.55:976][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-05.18.56:074][ 23]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.30-05.18.56:075][ 23]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_ThirdPersonCharacter7A196750415DD66D65FE1A9CF79406E0.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.30-05.18.56:099][ 23]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Vampire_Enemy_Blueprint
+[2024.05.30-05.18.56:099][ 23]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/Vampire_Enemy_BlueprintCB2498A84EFAB1D94D7FB8A6D6CD4492.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Vampire_Enemy_Blueprint.uasset'
+[2024.05.30-05.18.56:105][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 8.34 sec)
+[2024.05.30-05.18.56:108][ 23]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.30-05.18.56:108][ 23]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.30-05.18.56:108][ 23]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Vampire_Enemy_Blueprint.Vampire_Enemy_Blueprint
