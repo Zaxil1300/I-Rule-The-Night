@@ -3653,3 +3653,18 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Attack
 [2024.07.07-19.12.42:798][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
 [2024.07.07-19.12.42:805][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2024.07.07-19.12.42:879][354]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.07.07-19.14.22:686][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.07.07-19.14.24:576][646]LogSlate: Window 'Save Content' being destroyed
+[2024.07.07-19.14.24:595][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.07-19.14.24:674][646]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.07.07-19.14.24:674][646]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ABP_MannyE9A3570140D5BA1F0EF1C5922DB98B3F.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.07.07-19.14.24:676][646]LogSavePackage: Moving output files for package: /Game/MyAnimationMontages/ARPG_Warrior_Anim_UE_Unequip_Idle1_Montage
+[2024.07.07-19.14.24:677][646]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/ARPG_Warrior_Anim_UE_Unequip_Idl9BCB118A48CE7C16B64DDFA62FCFF7C2.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/MyAnimationMontages/ARPG_Warrior_Anim_UE_Unequip_Idle1_Montage.uasset'
+[2024.07.07-19.14.24:748][646]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.07-19.14.24:749][646]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_ThirdPersonCharacter9B4D0791442F90F3F243868DF2AE0053.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.07-19.14.24:754][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1.77 sec)
+[2024.07.07-19.14.24:758][646]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.07-19.14.24:758][646]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.07.07-19.14.24:758][646]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/MyAnimationMontages/ARPG_Warrior_Anim_UE_Unequip_Idle1_Montage.ARPG_Warrior_Anim_UE_Unequip_Idle1_Montage
+[2024.07.07-19.14.24:758][646]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.07-19.14.24:766][646]LogAutomationController: Ignoring very large delta of 2.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
