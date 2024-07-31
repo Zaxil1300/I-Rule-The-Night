@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealProjects\\I-Rule-The-Night\\IRuleTheNightV1\\Intermediate\\Source\\IRuleTheNightV1.Build.cs",
+		"E:\\UnrealProjects\\I-Rule-The-Night\\IRuleTheNightV1\\Intermediate\\Source\\IRuleTheNightV1.Target.cs",
+		"E:\\UnrealProjects\\I-Rule-The-Night\\IRuleTheNightV1\\Intermediate\\Source\\IRuleTheNightV1Client.Target.cs",
+		"E:\\UnrealProjects\\I-Rule-The-Night\\IRuleTheNightV1\\Intermediate\\Source\\IRuleTheNightV1Editor.Target.cs",
+		"E:\\UnrealProjects\\I-Rule-The-Night\\IRuleTheNightV1\\Intermediate\\Source\\IRuleTheNightV1Server.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
