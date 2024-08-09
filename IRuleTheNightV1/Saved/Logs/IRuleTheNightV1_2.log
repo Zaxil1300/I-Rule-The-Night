@@ -3448,3 +3448,951 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.08.09-06.06.00:942][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 7.26 sec)
 [2024.08.09-06.06.00:945][577]AssetCheck: New page: Asset Save: BP_Enemy
 [2024.08.09-06.06.00:945][577]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_Enemy.BP_Enemy
+[2024.08.09-06.15.16:067][948]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.257 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-06.20.11:921][836]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Yeti Stereo Microphone), InstanceID=1
+[2024.08.09-06.20.12:213][836]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21884
+[2024.08.09-06.20.12:548][837]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fe16613f-e09d-46b7-8bd7-8d87add6a689}, Name=Speakers (Yeti Stereo Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=65.15
+[2024.08.09-06.20.12:548][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.09-06.20.12:550][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.09-07.15.16:110][746]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.266 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-08.15.16:053][543]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.175 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-09.15.16:965][344]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:26.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-10.15.16:212][139]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.265 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-11.15.16:452][937]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.338 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-12.15.16:394][734]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.165 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-13.15.17:328][534]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:26.046 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-14.15.16:602][330]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.282 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-15.15.16:564][127]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.210 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-16.15.16:596][925]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.208 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-17.15.17:485][725]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:26.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-18.15.16:700][521]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.243 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-19.03.53:518][269]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SMT27A300 (NVIDIA High Definition Audio), InstanceID=1
+[2024.08.09-19.03.53:670][269]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21884
+[2024.08.09-19.03.54:006][270]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a96865b-4f97-4a42-a23b-109bbd0841ab}, Name=SMT27A300 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=95.42
+[2024.08.09-19.03.54:006][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.09-19.03.54:008][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.09-19.06.53:287][865]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.06.53:288][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.06.53:369][865]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.06.53:369][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.07.30:155][348]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_WieldSword.BTT_WieldSword
+[2024.08.09-19.07.30:155][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.07.30:155][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.07.58:223][632]LogContentBrowser: Attempting asset rename: BTT_WieldSword -> BTT_EquipWeapon
+[2024.08.09-19.07.59:414][632]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon_C' ref from Metadata '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_WieldSword.PackageMetaData'
+[2024.08.09-19.07.59:414][632]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.SKEL_BTT_EquipWeapon_C' ref from Metadata '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_WieldSword.PackageMetaData'
+[2024.08.09-19.07.59:414][632]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon_C:ReceiveExecuteAI' ref from Metadata '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_WieldSword.PackageMetaData'
+[2024.08.09-19.07.59:414][632]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.SKEL_BTT_EquipWeapon_C:ReceiveExecuteAI' ref from Metadata '/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_WieldSword.PackageMetaData'
+[2024.08.09-19.07.59:438][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.07.59:490][632]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BT_Enemy_Base
+[2024.08.09-19.07.59:490][632]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BT_Enemy_BaseFA29AB034B3BD726829A08A13F2879C4.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BT_Enemy_Base.uasset'
+[2024.08.09-19.07.59:502][632]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.07.59:502][632]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeaponCEDF35884582492118EEF19AB8953692.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.07.59:511][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.34 sec)
+[2024.08.09-19.07.59:546][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.08.09-19.07.59:594][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.08.09-19.07.59:611][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.08.09-19.07.59:631][632]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.09-19.07.59:631][632]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BT_Enemy_Base.BT_Enemy_Base
+[2024.08.09-19.07.59:631][632]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.08.16:105][477]BlueprintLog: New page: Compile BTT_EquipWeapon
+[2024.08.09-19.08.16:160][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.08.09-19.08.16:841][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.08.16:878][555]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.08.16:878][555]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeapon7AB4E46649967876CA63D59D803F785B.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.08.16:882][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 7.38 sec)
+[2024.08.09-19.08.16:884][555]AssetCheck: New page: Asset Save: BTT_EquipWeapon
+[2024.08.09-19.08.16:884][555]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.08.18:336][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.08.18:378][724]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.08.18:378][724]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeapon7D6180604DE2B73E798DA5A2FDCAAA34.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.08.18:382][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 7.42 sec)
+[2024.08.09-19.08.18:384][724]AssetCheck: New page: Asset Save: BTT_EquipWeapon
+[2024.08.09-19.08.18:384][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.08.20:285][911]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.09-19.08.20:294][911]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.09-19.08.20:294][911]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.08.09-19.08.20:297][911]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 1.30 sec)
+[2024.08.09-19.08.20:308][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.09-19.08.20:309][911]PIE: New page: PIE session: ThirdPersonMap (Aug 9, 2024, 11:08:20 AM)
+[2024.08.09-19.08.20:309][911]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.08.20:339][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030122s)
+[2024.08.09-19.08.20:339][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.030147s)
+[2024.08.09-19.08.20:355][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.08.09-19.08.20:359][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.08.20:359][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.08.20:359][911]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.09-19.08.20:360][911]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.09-19.08.20:360][911]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.09-19.08.20:360][911]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.09-19.08.20:360][911]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.09-19.08.20:362][911]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.09-19.08.20:362][911]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.76 sec)
+[2024.08.09-19.08.20:362][911]LogPlayLevel: PIE: World Init took: (0.003565s)
+[2024.08.09-19.08.20:362][911]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.08.09-19.08.20:362][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.09-19.08.20:362][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.09-19.08.20:362][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.09-19.08.20:362][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.09-19.08.20:362][911]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.09-19.08.20:362][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.09-19.08.20:362][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.09-19.08.20:362][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.09-19.08.20:363][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.09-19.08.20:363][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.09-19.08.20:363][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.09-19.08.20:364][911]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.09-19.08.20:380][911]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.08.09-19.08.20:381][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.09-19.08.20:381][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.09-19.08.20:381][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.09-19.08.20:381][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.08.09-19.08.20:381][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.08.09-19.08.20:383][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.08.09-19.08.20:383][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.08.09-19.08.20:383][911]LogInit: FAudioDevice initialized with ID 5.
+[2024.08.09-19.08.20:383][911]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.08.09-19.08.20:383][911]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.08.09-19.08.20:391][911]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.09-19.08.20:406][911]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.09-15.08.20
+[2024.08.09-19.08.20:420][911]LogWorld: Bringing up level for play took: 0.028179
+[2024.08.09-19.08.20:422][911]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2024.08.09-19.08.20:433][911]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.08.09-19.08.20:433][911]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.08.09-19.08.20:474][911]LogScript: Warning: Script Msg: The widget 'PlayerInGameHud_C_0' was already added to the screen.
+[2024.08.09-19.08.20:474][911]LogScript: Warning: Script Msg called by: InGame_Hud_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.InGame_Hud_C_0
+[2024.08.09-19.08.20:474][911]PIE: Server logged in
+[2024.08.09-19.08.20:475][911]PIE: Play in editor total start time 0.181 seconds.
+[2024.08.09-19.08.25:694][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.08.25:694][451]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.08.25:695][451]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.08.25:696][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.08.25:696][451]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.09-19.08.25:699][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.09-19.08.25:706][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.08.25:723][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.08.25:724][451]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.08.09-19.08.25:724][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.08.09-19.08.25:726][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.08.09-19.08.25:735][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.08.09-19.08.25:768][452]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2024.08.09-19.15.16:819][612]LogDerivedDataCache: C:/Users/aguzm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:25.328 and deleted 2 files with total size 0 MiB and 2 empty folders. Scanned 44663 files in 45608 folders with total size 5162 MiB.
+[2024.08.09-19.18.22:034][790]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Yeti Stereo Microphone), InstanceID=1
+[2024.08.09-19.18.22:036][790]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21884
+[2024.08.09-19.18.22:121][800]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fe16613f-e09d-46b7-8bd7-8d87add6a689}, Name=Speakers (Yeti Stereo Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=80.33
+[2024.08.09-19.18.22:121][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.09-19.18.22:123][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.09-19.19.08:833][334]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SMT27A300 (NVIDIA High Definition Audio), InstanceID=1
+[2024.08.09-19.19.08:835][334]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21884
+[2024.08.09-19.19.09:037][343]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a96865b-4f97-4a42-a23b-109bbd0841ab}, Name=SMT27A300 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=194.97
+[2024.08.09-19.19.09:037][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.09-19.19.09:039][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.09-19.19.15:995][174]LogViewport: Scene viewport resized to 1566x458, mode Windowed.
+[2024.08.09-19.19.16:021][175]LogViewport: Scene viewport resized to 1566x468, mode Windowed.
+[2024.08.09-19.19.16:052][176]LogViewport: Scene viewport resized to 1566x479, mode Windowed.
+[2024.08.09-19.19.16:085][177]LogViewport: Scene viewport resized to 1566x491, mode Windowed.
+[2024.08.09-19.19.16:118][178]LogViewport: Scene viewport resized to 1566x506, mode Windowed.
+[2024.08.09-19.19.16:156][179]LogViewport: Scene viewport resized to 1566x535, mode Windowed.
+[2024.08.09-19.19.16:189][180]LogViewport: Scene viewport resized to 1566x552, mode Windowed.
+[2024.08.09-19.19.16:226][181]LogViewport: Scene viewport resized to 1566x573, mode Windowed.
+[2024.08.09-19.19.16:261][182]LogViewport: Scene viewport resized to 1566x595, mode Windowed.
+[2024.08.09-19.19.16:293][183]LogViewport: Scene viewport resized to 1566x613, mode Windowed.
+[2024.08.09-19.19.16:331][184]LogViewport: Scene viewport resized to 1566x626, mode Windowed.
+[2024.08.09-19.19.16:363][185]LogViewport: Scene viewport resized to 1566x632, mode Windowed.
+[2024.08.09-19.19.16:459][193]LogViewport: Scene viewport resized to 1566x633, mode Windowed.
+[2024.08.09-19.19.16:495][194]LogViewport: Scene viewport resized to 1566x644, mode Windowed.
+[2024.08.09-19.19.16:528][195]LogViewport: Scene viewport resized to 1566x657, mode Windowed.
+[2024.08.09-19.19.16:562][196]LogViewport: Scene viewport resized to 1566x678, mode Windowed.
+[2024.08.09-19.19.16:596][197]LogViewport: Scene viewport resized to 1566x686, mode Windowed.
+[2024.08.09-19.19.16:802][217]LogViewport: Scene viewport resized to 1566x683, mode Windowed.
+[2024.08.09-19.19.16:838][218]LogViewport: Scene viewport resized to 1566x668, mode Windowed.
+[2024.08.09-19.19.16:870][219]LogViewport: Scene viewport resized to 1566x659, mode Windowed.
+[2024.08.09-19.19.16:904][220]LogViewport: Scene viewport resized to 1566x656, mode Windowed.
+[2024.08.09-19.19.17:197][250]LogViewport: Scene viewport resized to 1566x654, mode Windowed.
+[2024.08.09-19.19.17:234][251]LogViewport: Scene viewport resized to 1566x648, mode Windowed.
+[2024.08.09-19.19.17:272][252]LogViewport: Scene viewport resized to 1566x643, mode Windowed.
+[2024.08.09-19.19.17:318][254]LogViewport: Scene viewport resized to 1566x640, mode Windowed.
+[2024.08.09-19.19.17:354][255]LogViewport: Scene viewport resized to 1566x630, mode Windowed.
+[2024.08.09-19.19.17:387][256]LogViewport: Scene viewport resized to 1566x625, mode Windowed.
+[2024.08.09-19.19.17:423][257]LogViewport: Scene viewport resized to 1566x613, mode Windowed.
+[2024.08.09-19.19.17:452][258]LogViewport: Scene viewport resized to 1566x604, mode Windowed.
+[2024.08.09-19.21.54:169][691]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-19.21.54:259][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.08.09-19.21.54:883][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.21.55:091][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_Enemy" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.08.09-19.21.55:113][745]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_Enemy
+[2024.08.09-19.21.55:114][745]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_Enemy4FF38AA94D713434B2685695CCB3E479.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset'
+[2024.08.09-19.21.55:118][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 7.66 sec)
+[2024.08.09-19.21.55:121][745]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.08.09-19.21.55:121][745]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_Enemy.BP_Enemy
+[2024.08.09-19.21.56:825][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.08.09-19.21.58:127][945]LogSlate: Window 'Save Content' being destroyed
+[2024.08.09-19.21.58:132][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.21.58:225][945]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/Decorators/BTD_IsWieldingSword
+[2024.08.09-19.21.58:225][945]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTD_IsWieldingSwordC2BA28004F84A91753A110B3BC5DA285.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/Decorators/BTD_IsWieldingSword.uasset'
+[2024.08.09-19.21.58:228][945]LogSavePackage: Moving output files for package: /Game/Skeleton/Meshes/Skeleton_parts/S_Skeleton_full_ik
+[2024.08.09-19.21.58:228][945]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/S_Skeleton_full_ik720DC0144169E630A7B74C8AA1F062DB.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Skeleton/Meshes/Skeleton_parts/S_Skeleton_full_ik.uasset'
+[2024.08.09-19.21.58:233][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 7.76 sec)
+[2024.08.09-19.21.58:236][945]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.09-19.21.58:236][945]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/Decorators/BTD_IsWieldingSword.BTD_IsWieldingSword
+[2024.08.09-19.21.58:236][945]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Skeleton/Meshes/Skeleton_parts/S_Skeleton_full_ik.S_Skeleton_full_ik
+[2024.08.09-19.22.25:750][153]LogViewport: Scene viewport resized to 1566x601, mode Windowed.
+[2024.08.09-19.22.25:785][154]LogViewport: Scene viewport resized to 1566x592, mode Windowed.
+[2024.08.09-19.22.25:817][155]LogViewport: Scene viewport resized to 1566x567, mode Windowed.
+[2024.08.09-19.22.25:854][156]LogViewport: Scene viewport resized to 1566x518, mode Windowed.
+[2024.08.09-19.22.25:889][157]LogViewport: Scene viewport resized to 1566x477, mode Windowed.
+[2024.08.09-19.22.25:922][158]LogViewport: Scene viewport resized to 1566x443, mode Windowed.
+[2024.08.09-19.22.25:957][159]LogViewport: Scene viewport resized to 1566x400, mode Windowed.
+[2024.08.09-19.22.25:991][160]LogViewport: Scene viewport resized to 1566x371, mode Windowed.
+[2024.08.09-19.22.26:024][161]LogViewport: Scene viewport resized to 1566x354, mode Windowed.
+[2024.08.09-19.22.26:056][162]LogViewport: Scene viewport resized to 1566x337, mode Windowed.
+[2024.08.09-19.22.26:086][163]LogViewport: Scene viewport resized to 1566x331, mode Windowed.
+[2024.08.09-19.22.26:399][198]LogViewport: Scene viewport resized to 1566x334, mode Windowed.
+[2024.08.09-19.22.26:424][199]LogViewport: Scene viewport resized to 1566x340, mode Windowed.
+[2024.08.09-19.22.26:454][200]LogViewport: Scene viewport resized to 1566x345, mode Windowed.
+[2024.08.09-19.22.26:485][201]LogViewport: Scene viewport resized to 1566x348, mode Windowed.
+[2024.08.09-19.22.26:540][205]LogViewport: Scene viewport resized to 1566x350, mode Windowed.
+[2024.08.09-19.22.26:569][206]LogViewport: Scene viewport resized to 1566x358, mode Windowed.
+[2024.08.09-19.22.26:598][207]LogViewport: Scene viewport resized to 1566x359, mode Windowed.
+[2024.08.09-19.22.26:646][210]LogViewport: Scene viewport resized to 1566x362, mode Windowed.
+[2024.08.09-19.22.26:672][211]LogViewport: Scene viewport resized to 1566x373, mode Windowed.
+[2024.08.09-19.22.26:703][212]LogViewport: Scene viewport resized to 1566x379, mode Windowed.
+[2024.08.09-19.22.26:732][213]LogViewport: Scene viewport resized to 1566x392, mode Windowed.
+[2024.08.09-19.22.26:762][214]LogViewport: Scene viewport resized to 1566x410, mode Windowed.
+[2024.08.09-19.22.26:794][215]LogViewport: Scene viewport resized to 1566x411, mode Windowed.
+[2024.08.09-19.22.43:196][767]LogContentBrowser: Attempting asset rename: BP_Sword -> BP_WeaponBase
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase_C' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.SKEL_BP_WeaponBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.SKEL_BP_WeaponBase_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.SKEL_BP_WeaponBase_C:ReceiveTick' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.SKEL_BP_WeaponBase_C:UserConstructionScript' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:071][767]LogMetaData: Removing '/Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.SKEL_BP_WeaponBase_C' ref from Metadata '/Game/Enemy_Blueprints/Enemy_Weapons/BP_Sword.PackageMetaData'
+[2024.08.09-19.22.44:073][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.22.44:136][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_Enemy" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.08.09-19.22.44:159][767]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_Enemy
+[2024.08.09-19.22.44:159][767]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_EnemyD26B90CD40A4124AAF14D886CD946452.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset'
+[2024.08.09-19.22.44:161][767]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase does not exist, will not scan.
+[2024.08.09-19.22.44:165][767]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase
+[2024.08.09-19.22.44:165][767]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_WeaponBase374486014F89CA9F129202871CC5A3C3.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.uasset'
+[2024.08.09-19.22.44:174][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 7.86 sec)
+[2024.08.09-19.22.44:204][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.08.09-19.22.44:231][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.08.09-19.22.44:247][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.08.09-19.22.44:251][767]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.09-19.22.44:251][767]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_Enemy.BP_Enemy
+[2024.08.09-19.22.44:251][767]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.08.09-19.22.44:251][767]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.22.47:355][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.08.09-19.22.47:355][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.22.47:355][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.23.06:255][426]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.08.09-19.23.06:286][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.08.09-19.23.06:925][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.23.06:969][491]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase
+[2024.08.09-19.23.06:970][491]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_WeaponBase5CE70C904127BDD0439B3492A8A5829B.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.uasset'
+[2024.08.09-19.23.06:973][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 7.91 sec)
+[2024.08.09-19.23.06:976][491]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.08.09-19.23.06:976][491]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.08.09-19.23.14:967][988]LogViewport: Scene viewport resized to 1027x622, mode Windowed.
+[2024.08.09-19.23.49:884][634]LogContentBrowser: Deferred new asset file creation: BP_WeaponBase_Child
+[2024.08.09-19.23.49:911][634]LogContentBrowser: Creating deferred item: BP_WeaponBase_Child
+[2024.08.09-19.23.49:920][635]LogContentBrowser: Renaming the item being created (Deferred Item: BP_WeaponBase_Child).
+[2024.08.09-19.23.59:889][789]LogContentBrowser: Attempting asset rename: BP_WeaponBase_Child -> BP_Weapon_Sword
+[2024.08.09-19.24.00:015][789]LogContentBrowser: End creating deferred item BP_WeaponBase_Child
+[2024.08.09-19.24.03:633][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Sword.BP_Weapon_Sword
+[2024.08.09-19.24.03:633][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.24.03:633][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.24.03:892][118]LogViewport: Scene viewport resized to 1027x622, mode Windowed.
+[2024.08.09-19.24.20:855][985]LogStaticMesh: StaticMesh /Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_SpinSword_00.SM_SpinSword_00 should be resaved to improve async compilation performance.
+[2024.08.09-19.24.20:875][985]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/InfinityBladeEffects/Effects/FX_Meshes/Mobile/SM_SpinSword_00) ...
+[2024.08.09-19.24.21:557][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.24.24:119][269]LogEditorTransaction: Undo Edit Static Mesh
+[2024.08.09-19.24.25:567][269]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.09-19.24.48:958][411]BlueprintLog: New page: Compile BP_Weapon_Sword
+[2024.08.09-19.24.49:000][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.08.09-19.24.49:793][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.24.49:863][486]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Sword
+[2024.08.09-19.24.49:863][486]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_Weapon_SwordE2C81B454948CB4CB084099D3A35C37E.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Sword.uasset'
+[2024.08.09-19.24.49:872][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.99 sec)
+[2024.08.09-19.24.49:872][486]AssetCheck: New page: Asset Save: BP_Weapon_Sword
+[2024.08.09-19.24.49:872][486]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Sword.BP_Weapon_Sword
+[2024.08.09-19.26.12:820][909]LogSlate: Took 0.021449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.08.09-19.26.56:111][924]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-19.26.56:195][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.08.09-19.28.00:012][467]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-19.28.00:100][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.08.09-19.28.07:723][353]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-19.28.07:809][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.08.09-19.39.45:269][343]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-19.39.45:356][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.08.09-19.39.46:412][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.39.46:515][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_Enemy" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.08.09-19.39.46:537][452]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_Enemy
+[2024.08.09-19.39.46:538][452]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_Enemy4723109D4DD8D18E3086F9B1007437A7.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset'
+[2024.08.09-19.39.46:542][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 8.12 sec)
+[2024.08.09-19.39.46:545][452]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.08.09-19.39.46:545][452]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_Enemy.BP_Enemy
+[2024.08.09-19.40.25:452][927]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-19.40.25:542][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.08.09-19.41.34:284][ 73]BlueprintLog: New page: Compile BTT_EquipWeapon
+[2024.08.09-19.41.34:315][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.08.09-19.41.35:090][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.41.35:150][162]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.41.35:151][162]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeapon0434C06F41A6D84D754DBC8568108351.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.41.35:154][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 8.18 sec)
+[2024.08.09-19.41.35:157][162]AssetCheck: New page: Asset Save: BTT_EquipWeapon
+[2024.08.09-19.41.35:157][162]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.41.44:861][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.41.44:901][324]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.41.44:901][324]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeaponFA8F34F44F46A2E314779A86878426C3.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.41.44:904][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 8.22 sec)
+[2024.08.09-19.41.44:908][324]AssetCheck: New page: Asset Save: BTT_EquipWeapon
+[2024.08.09-19.41.44:908][324]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.41.45:563][403]BlueprintLog: New page: Compile BTT_EquipWeapon
+[2024.08.09-19.41.45:592][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.08.09-19.43.58:867][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.43.58:901][662]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.43.58:901][662]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeapon7DC6E17448768742269B4AA1428F9FB3.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.43.58:905][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 8.26 sec)
+[2024.08.09-19.43.58:912][662]AssetCheck: New page: Asset Save: BTT_EquipWeapon
+[2024.08.09-19.43.58:912][662]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.50.14:886][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.09-19.50.14:895][290]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.09-19.50.14:895][290]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.08.09-19.50.14:898][290]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 1.30 sec)
+[2024.08.09-19.50.14:907][290]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.09-19.50.14:907][290]LogPlayLevel: [PlayLevel] Compiling BTD_IsWieldingSword before play...
+[2024.08.09-19.50.14:939][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.08.09-19.50.14:946][290]LogPlayLevel: PlayLevel: Blueprint regeneration took 39 ms (1 blueprints)
+[2024.08.09-19.50.14:946][290]PIE: New page: PIE session: ThirdPersonMap (Aug 9, 2024, 11:50:14 AM)
+[2024.08.09-19.50.14:946][290]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.50.14:959][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012853s)
+[2024.08.09-19.50.14:959][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012884s)
+[2024.08.09-19.50.14:975][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.08.09-19.50.14:977][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.50.14:977][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.50.14:977][290]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.09-19.50.14:978][290]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.09-19.50.14:978][290]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.09-19.50.14:978][290]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.09-19.50.14:978][290]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.09-19.50.14:981][290]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.09-19.50.14:981][290]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.76 sec)
+[2024.08.09-19.50.14:981][290]LogPlayLevel: PIE: World Init took: (0.003717s)
+[2024.08.09-19.50.14:981][290]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.08.09-19.50.14:981][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.09-19.50.14:981][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.09-19.50.14:981][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.09-19.50.14:981][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.09-19.50.14:981][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.09-19.50.14:981][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.09-19.50.14:981][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.09-19.50.14:981][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.09-19.50.14:981][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.09-19.50.14:981][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.09-19.50.14:981][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.09-19.50.14:983][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.09-19.50.15:000][290]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.08.09-19.50.15:000][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.09-19.50.15:000][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.09-19.50.15:000][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.09-19.50.15:001][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.08.09-19.50.15:001][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.08.09-19.50.15:003][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.08.09-19.50.15:003][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.08.09-19.50.15:003][290]LogInit: FAudioDevice initialized with ID 6.
+[2024.08.09-19.50.15:003][290]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.08.09-19.50.15:003][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.08.09-19.50.15:006][290]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.09-19.50.15:022][290]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.09-15.50.15
+[2024.08.09-19.50.15:024][290]LogWorld: Bringing up level for play took: 0.018098
+[2024.08.09-19.50.15:026][290]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2024.08.09-19.50.15:027][290]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.08.09-19.50.15:027][290]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.08.09-19.50.15:035][290]LogScript: Warning: Script Msg: The widget 'PlayerInGameHud_C_0' was already added to the screen.
+[2024.08.09-19.50.15:035][290]LogScript: Warning: Script Msg called by: InGame_Hud_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.InGame_Hud_C_0
+[2024.08.09-19.50.15:035][290]PIE: Server logged in
+[2024.08.09-19.50.15:036][290]PIE: Play in editor total start time 0.141 seconds.
+[2024.08.09-19.50.26:395][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.50.26:395][415]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.50.26:395][415]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.50.26:397][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.50.26:397][415]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.09-19.50.26:401][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.09-19.50.26:407][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.50.26:425][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.50.26:426][415]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.08.09-19.50.26:426][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.08.09-19.50.26:429][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.08.09-19.50.26:439][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.09-19.50.26:474][416]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2024.08.09-19.51.09:919][485]BlueprintLog: New page: Compile BTT_EquipWeapon
+[2024.08.09-19.51.09:948][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.08.09-19.51.10:722][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.51.10:762][570]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.51.10:762][570]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeaponC94745C34A578DE2EDEAB881AA901084.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.51.10:766][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 8.31 sec)
+[2024.08.09-19.51.10:768][570]AssetCheck: New page: Asset Save: BTT_EquipWeapon
+[2024.08.09-19.51.10:768][570]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.51.12:235][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.09-19.51.12:243][700]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.09-19.51.12:243][700]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.08.09-19.51.12:246][700]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 1.31 sec)
+[2024.08.09-19.51.12:249][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.09-19.51.12:250][700]PIE: New page: PIE session: ThirdPersonMap (Aug 9, 2024, 11:51:12 AM)
+[2024.08.09-19.51.12:297][700]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.51.12:309][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012240s)
+[2024.08.09-19.51.12:309][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012271s)
+[2024.08.09-19.51.12:326][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.08.09-19.51.12:329][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.51.12:329][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.51.12:330][700]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.09-19.51.12:330][700]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.09-19.51.12:330][700]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.09-19.51.12:330][700]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.09-19.51.12:330][700]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.09-19.51.12:333][700]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.09-19.51.12:333][700]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.76 sec)
+[2024.08.09-19.51.12:333][700]LogPlayLevel: PIE: World Init took: (0.003736s)
+[2024.08.09-19.51.12:333][700]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.08.09-19.51.12:333][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.09-19.51.12:333][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.09-19.51.12:333][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.09-19.51.12:333][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.09-19.51.12:333][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.09-19.51.12:333][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.09-19.51.12:333][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.09-19.51.12:333][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.09-19.51.12:333][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.09-19.51.12:333][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.09-19.51.12:333][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.09-19.51.12:336][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.09-19.51.12:352][700]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.08.09-19.51.12:352][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.09-19.51.12:352][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.09-19.51.12:352][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.09-19.51.12:353][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.08.09-19.51.12:353][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.08.09-19.51.12:354][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.08.09-19.51.12:354][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.08.09-19.51.12:354][700]LogInit: FAudioDevice initialized with ID 7.
+[2024.08.09-19.51.12:354][700]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.08.09-19.51.12:354][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.08.09-19.51.12:356][700]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.09-19.51.12:371][700]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.09-15.51.12
+[2024.08.09-19.51.12:373][700]LogWorld: Bringing up level for play took: 0.016558
+[2024.08.09-19.51.12:375][700]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2024.08.09-19.51.12:376][700]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.08.09-19.51.12:376][700]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.08.09-19.51.12:384][700]LogScript: Warning: Script Msg: The widget 'PlayerInGameHud_C_0' was already added to the screen.
+[2024.08.09-19.51.12:384][700]LogScript: Warning: Script Msg called by: InGame_Hud_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.InGame_Hud_C_0
+[2024.08.09-19.51.12:384][700]PIE: Server logged in
+[2024.08.09-19.51.12:384][700]PIE: Play in editor total start time 0.142 seconds.
+[2024.08.09-19.51.16:298][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.51.16:298][118]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.51.16:299][118]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.51.16:300][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.51.16:300][118]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.09-19.51.16:303][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.09-19.51.16:310][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.51.16:327][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.51.16:328][118]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.08.09-19.51.16:328][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.08.09-19.51.16:330][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.08.09-19.51.16:338][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.08.09-19.51.16:371][119]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2024.08.09-19.51.54:494][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.08.09-19.52.05:972][621]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.09-19.52.05:982][621]LogAutomationController: Ignoring very large delta of 11.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.08.09-19.52.22:311][ 45]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-19.52.22:404][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.08.09-19.52.23:271][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.52.23:410][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_Enemy" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.08.09-19.52.23:432][131]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_Enemy
+[2024.08.09-19.52.23:432][131]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_EnemyD742C0A3427B1A345581AFB1280C2F06.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset'
+[2024.08.09-19.52.23:437][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 8.47 sec)
+[2024.08.09-19.52.23:441][131]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.08.09-19.52.23:441][131]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_Enemy.BP_Enemy
+[2024.08.09-19.52.36:160][493]BlueprintLog: New page: Compile BTT_EquipWeapon
+[2024.08.09-19.52.36:190][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.09-19.52.36:863][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.52.36:900][568]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon
+[2024.08.09-19.52.36:901][568]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BTT_EquipWeapon4252FB174A90CB8AADF29892F5335A9A.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.uasset'
+[2024.08.09-19.52.36:905][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 8.51 sec)
+[2024.08.09-19.52.36:907][568]AssetCheck: New page: Asset Save: BTT_EquipWeapon
+[2024.08.09-19.52.36:907][568]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BTT_EquipWeapon.BTT_EquipWeapon
+[2024.08.09-19.52.38:950][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.09-19.52.38:958][766]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.09-19.52.38:958][766]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.08.09-19.52.38:962][766]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 1.31 sec)
+[2024.08.09-19.52.38:965][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.09-19.52.38:965][766]PIE: New page: PIE session: ThirdPersonMap (Aug 9, 2024, 11:52:38 AM)
+[2024.08.09-19.52.38:965][766]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.52.38:977][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012591s)
+[2024.08.09-19.52.38:977][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012617s)
+[2024.08.09-19.52.38:994][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.08.09-19.52.38:998][766]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.52.38:998][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.52.38:998][766]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.09-19.52.38:999][766]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.09-19.52.38:999][766]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.09-19.52.38:999][766]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.09-19.52.38:999][766]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.09-19.52.39:001][766]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.09-19.52.39:001][766]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.77 sec)
+[2024.08.09-19.52.39:001][766]LogPlayLevel: PIE: World Init took: (0.003717s)
+[2024.08.09-19.52.39:001][766]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.08.09-19.52.39:001][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.09-19.52.39:001][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.09-19.52.39:001][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.09-19.52.39:001][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.09-19.52.39:001][766]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.09-19.52.39:001][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.09-19.52.39:002][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.09-19.52.39:002][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.09-19.52.39:002][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.09-19.52.39:002][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.09-19.52.39:002][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.09-19.52.39:004][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.09-19.52.39:020][766]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.08.09-19.52.39:020][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.09-19.52.39:020][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.09-19.52.39:020][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.09-19.52.39:021][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.08.09-19.52.39:021][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.08.09-19.52.39:023][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.08.09-19.52.39:023][766]LogInit: FAudioDevice initialized with ID 8.
+[2024.08.09-19.52.39:023][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.08.09-19.52.39:023][766]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.08.09-19.52.39:023][766]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.08.09-19.52.39:025][766]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.09-19.52.39:040][766]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.09-15.52.39
+[2024.08.09-19.52.39:042][766]LogWorld: Bringing up level for play took: 0.016679
+[2024.08.09-19.52.39:044][766]LogOnline: OSS: Created online subsystem instance for: :Context_138
+[2024.08.09-19.52.39:045][766]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.08.09-19.52.39:045][766]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.08.09-19.52.39:052][766]LogScript: Warning: Script Msg: The widget 'PlayerInGameHud_C_0' was already added to the screen.
+[2024.08.09-19.52.39:052][766]LogScript: Warning: Script Msg called by: InGame_Hud_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.InGame_Hud_C_0
+[2024.08.09-19.52.39:052][766]PIE: Server logged in
+[2024.08.09-19.52.39:053][766]PIE: Play in editor total start time 0.095 seconds.
+[2024.08.09-19.53.02:476][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.53.02:476][262]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-19.53.02:476][262]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.53.02:477][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.53.02:477][262]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.09-19.53.02:481][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.09-19.53.02:488][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.53.02:507][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-19.53.02:508][262]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.08.09-19.53.02:508][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.08.09-19.53.02:510][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.08.09-19.53.02:518][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.09-19.53.02:552][263]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2024.08.09-19.53.04:593][505]LogViewport: Scene viewport resized to 1566x415, mode Windowed.
+[2024.08.09-19.53.04:618][506]LogViewport: Scene viewport resized to 1566x429, mode Windowed.
+[2024.08.09-19.53.04:648][507]LogViewport: Scene viewport resized to 1566x454, mode Windowed.
+[2024.08.09-19.53.04:683][508]LogViewport: Scene viewport resized to 1566x480, mode Windowed.
+[2024.08.09-19.53.04:716][509]LogViewport: Scene viewport resized to 1566x505, mode Windowed.
+[2024.08.09-19.53.04:748][510]LogViewport: Scene viewport resized to 1566x528, mode Windowed.
+[2024.08.09-19.53.04:782][511]LogViewport: Scene viewport resized to 1566x553, mode Windowed.
+[2024.08.09-19.53.04:819][512]LogViewport: Scene viewport resized to 1566x569, mode Windowed.
+[2024.08.09-19.53.04:854][513]LogViewport: Scene viewport resized to 1566x581, mode Windowed.
+[2024.08.09-19.53.04:885][514]LogViewport: Scene viewport resized to 1566x585, mode Windowed.
+[2024.08.09-19.53.04:919][515]LogViewport: Scene viewport resized to 1566x588, mode Windowed.
+[2024.08.09-19.53.04:954][516]LogViewport: Scene viewport resized to 1566x591, mode Windowed.
+[2024.08.09-19.53.04:986][517]LogViewport: Scene viewport resized to 1566x593, mode Windowed.
+[2024.08.09-19.53.05:063][523]LogViewport: Scene viewport resized to 1566x595, mode Windowed.
+[2024.08.09-19.53.05:109][526]LogViewport: Scene viewport resized to 1566x594, mode Windowed.
+[2024.08.09-19.53.31:542][950]LogContentBrowser: Deferred new asset file creation: BP_WeaponBase_Child
+[2024.08.09-19.53.31:579][950]LogContentBrowser: Creating deferred item: BP_WeaponBase_Child
+[2024.08.09-19.53.31:587][951]LogContentBrowser: Renaming the item being created (Deferred Item: BP_WeaponBase_Child).
+[2024.08.09-19.53.40:516][ 10]LogContentBrowser: Attempting asset rename: BP_WeaponBase_Child -> BP_Weapon_Spellbook
+[2024.08.09-19.53.40:522][ 10]LogContentBrowser: End creating deferred item BP_WeaponBase_Child
+[2024.08.09-19.53.42:439][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_Tome.BP_Tome
+[2024.08.09-19.53.42:440][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.53.42:440][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.53.50:577][981]LogViewport: Scene viewport resized to 1566x595, mode Windowed.
+[2024.08.09-19.53.50:609][982]LogViewport: Scene viewport resized to 1566x592, mode Windowed.
+[2024.08.09-19.53.50:645][983]LogViewport: Scene viewport resized to 1566x566, mode Windowed.
+[2024.08.09-19.53.50:688][984]LogViewport: Scene viewport resized to 1566x525, mode Windowed.
+[2024.08.09-19.53.50:734][985]LogViewport: Scene viewport resized to 1566x500, mode Windowed.
+[2024.08.09-19.53.50:985][986]LogViewport: Scene viewport resized to 1566x460, mode Windowed.
+[2024.08.09-19.53.51:029][987]LogViewport: Scene viewport resized to 1566x347, mode Windowed.
+[2024.08.09-19.53.51:085][988]LogViewport: Scene viewport resized to 1566x340, mode Windowed.
+[2024.08.09-19.53.51:398][  1]LogViewport: Scene viewport resized to 1566x341, mode Windowed.
+[2024.08.09-19.53.51:460][  2]LogViewport: Scene viewport resized to 1566x355, mode Windowed.
+[2024.08.09-19.53.51:502][  3]LogViewport: Scene viewport resized to 1566x382, mode Windowed.
+[2024.08.09-19.53.51:543][  4]LogViewport: Scene viewport resized to 1566x383, mode Windowed.
+[2024.08.09-19.53.53:367][207]LogViewport: Scene viewport resized to 1566x387, mode Windowed.
+[2024.08.09-19.53.53:395][208]LogViewport: Scene viewport resized to 1566x410, mode Windowed.
+[2024.08.09-19.53.53:431][209]LogViewport: Scene viewport resized to 1566x451, mode Windowed.
+[2024.08.09-19.53.53:462][210]LogViewport: Scene viewport resized to 1566x475, mode Windowed.
+[2024.08.09-19.53.53:494][211]LogViewport: Scene viewport resized to 1566x502, mode Windowed.
+[2024.08.09-19.53.53:526][212]LogViewport: Scene viewport resized to 1566x524, mode Windowed.
+[2024.08.09-19.53.53:560][213]LogViewport: Scene viewport resized to 1566x533, mode Windowed.
+[2024.08.09-19.53.53:596][214]LogViewport: Scene viewport resized to 1566x540, mode Windowed.
+[2024.08.09-19.53.53:629][215]LogViewport: Scene viewport resized to 1566x544, mode Windowed.
+[2024.08.09-19.54.10:758][486]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.54.10:758][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.54.17:671][136]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Spellbook.BP_Weapon_Spellbook
+[2024.08.09-19.54.17:672][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.54.17:672][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.54.17:812][136]LogViewport: Scene viewport resized to 1281x769, mode Windowed.
+[2024.08.09-19.54.31:147][512]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_Tome.BP_Tome
+[2024.08.09-19.54.31:148][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.54.31:148][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-19.54.40:395][468]BlueprintLog: New page: Compile BP_Weapon_Spellbook
+[2024.08.09-19.54.40:427][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.08.09-19.54.41:055][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.54.41:107][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-19.54.41:135][532]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Spellbook
+[2024.08.09-19.54.41:135][532]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_Weapon_Spellbook28BD933442D4D39ACF599EB79EE4288C.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Spellbook.uasset'
+[2024.08.09-19.54.41:144][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 8.60 sec)
+[2024.08.09-19.54.41:145][532]AssetCheck: New page: Asset Save: BP_Weapon_Spellbook
+[2024.08.09-19.54.41:145][532]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/Enemy_Weapons/BP_Weapon_Spellbook.BP_Weapon_Spellbook
+[2024.08.09-19.54.50:995][707]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.54.50:995][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.54.52:279][852]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.08.09-19.54.52:279][852]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-19.54.52:279][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-19.56.23:702][735]BlueprintLog: New page: Compile BP_EnemyMagic
+[2024.08.09-19.56.23:741][735]LogBlueprint: Error: [AssetLog] E:\UnrealProjects\I-Rule-The-Night\IRuleTheNightV1\Content\Enemy_Blueprints\BP_EnemyMagic.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.08.09-19.56.23:741][735]LogBlueprint: Error: [AssetLog] E:\UnrealProjects\I-Rule-The-Night\IRuleTheNightV1\Content\Enemy_Blueprints\BP_EnemyMagic.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.08.09-19.56.23:776][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.08.09-19.58.06:675][292]BlueprintLog: New page: Compile BP_EnemyMagic
+[2024.08.09-19.58.06:678][292]LogBlueprint: Error: [AssetLog] E:\UnrealProjects\I-Rule-The-Night\IRuleTheNightV1\Content\Enemy_Blueprints\BP_EnemyMagic.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.08.09-19.58.06:678][292]LogBlueprint: Error: [AssetLog] E:\UnrealProjects\I-Rule-The-Night\IRuleTheNightV1\Content\Enemy_Blueprints\BP_EnemyMagic.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.08.09-19.58.06:713][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.08.09-19.58.07:443][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.58.07:544][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_EnemyMagic" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_EnemyMagic.uasset" SILENT=true
+[2024.08.09-19.58.07:551][341]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_EnemyMagic
+[2024.08.09-19.58.07:551][341]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_EnemyMagic789E18064423916E1D9487A265341F6E.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_EnemyMagic.uasset'
+[2024.08.09-19.58.07:558][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 8.72 sec)
+[2024.08.09-19.58.07:560][341]AssetCheck: New page: Asset Save: BP_EnemyMagic
+[2024.08.09-19.58.07:560][341]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic
+[2024.08.09-19.59.46:515][626]BlueprintLog: New page: Compile BP_EnemyMagic
+[2024.08.09-19.59.46:553][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.08.09-19.59.47:199][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-19.59.47:326][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_EnemyMagic" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_EnemyMagic.uasset" SILENT=true
+[2024.08.09-19.59.47:333][692]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_EnemyMagic
+[2024.08.09-19.59.47:333][692]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_EnemyMagic849A58CD45D86230A97D999E6230C304.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_EnemyMagic.uasset'
+[2024.08.09-19.59.47:338][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 8.86 sec)
+[2024.08.09-19.59.47:340][692]AssetCheck: New page: Asset Save: BP_EnemyMagic
+[2024.08.09-19.59.47:340][692]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic
+[2024.08.09-20.00.15:038][898]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic_C
+[2024.08.09-20.00.15:038][898]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic_C
+[2024.08.09-20.00.15:067][898]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic as actor: BP_EnemyMagic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMagic_C_1
+[2024.08.09-20.00.15:079][898]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic as actor: BP_EnemyMagic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMagic_C_1
+[2024.08.09-20.00.16:259][ 21]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic_C
+[2024.08.09-20.00.16:259][ 21]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic_C
+[2024.08.09-20.00.16:265][ 21]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic as actor: BP_EnemyMagic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMagic_C_UAID_A46BB6ADE53EE51002_2068256696
+[2024.08.09-20.00.16:266][ 21]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMagic.BP_EnemyMagic as actor: BP_EnemyMagic_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMagic_C_UAID_A46BB6ADE53EE51002_2068256696
+[2024.08.09-20.00.26:054][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.09-20.00.26:064][991]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.09-20.00.26:065][991]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.08.09-20.00.26:093][991]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 28 ms (total: 1.34 sec)
+[2024.08.09-20.00.26:111][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.09-20.00.26:111][991]PIE: New page: PIE session: ThirdPersonMap (Aug 9, 2024, 12:00:26 PM)
+[2024.08.09-20.00.26:111][991]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-20.00.26:124][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012584s)
+[2024.08.09-20.00.26:124][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012611s)
+[2024.08.09-20.00.26:141][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.08.09-20.00.26:146][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-20.00.26:146][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-20.00.26:147][991]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.09-20.00.26:147][991]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.09-20.00.26:147][991]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.09-20.00.26:147][991]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.09-20.00.26:147][991]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.09-20.00.26:150][991]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.09-20.00.26:150][991]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.77 sec)
+[2024.08.09-20.00.26:150][991]LogPlayLevel: PIE: World Init took: (0.004132s)
+[2024.08.09-20.00.26:150][991]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.08.09-20.00.26:150][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.09-20.00.26:150][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.09-20.00.26:150][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.09-20.00.26:150][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.09-20.00.26:150][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.09-20.00.26:150][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.09-20.00.26:150][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.09-20.00.26:150][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.09-20.00.26:151][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.09-20.00.26:151][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.09-20.00.26:151][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.09-20.00.26:152][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.09-20.00.26:170][991]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.08.09-20.00.26:170][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.09-20.00.26:170][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.09-20.00.26:170][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.09-20.00.26:175][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.08.09-20.00.26:175][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.08.09-20.00.26:177][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.08.09-20.00.26:177][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.08.09-20.00.26:177][991]LogInit: FAudioDevice initialized with ID 9.
+[2024.08.09-20.00.26:177][991]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.08.09-20.00.26:177][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.08.09-20.00.26:180][991]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.09-20.00.26:197][991]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.09-16.00.26
+[2024.08.09-20.00.26:200][991]LogWorld: Bringing up level for play took: 0.019846
+[2024.08.09-20.00.26:202][991]LogOnline: OSS: Created online subsystem instance for: :Context_143
+[2024.08.09-20.00.26:203][991]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.08.09-20.00.26:203][991]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.08.09-20.00.26:215][991]LogScript: Warning: Script Msg: The widget 'PlayerInGameHud_C_0' was already added to the screen.
+[2024.08.09-20.00.26:215][991]LogScript: Warning: Script Msg called by: InGame_Hud_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.InGame_Hud_C_0
+[2024.08.09-20.00.26:215][991]PIE: Server logged in
+[2024.08.09-20.00.26:215][991]PIE: Play in editor total start time 0.15 seconds.
+[2024.08.09-20.00.50:056][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-20.00.50:056][428]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-20.00.50:057][428]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-20.00.50:058][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.00.50:058][428]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.09-20.00.50:064][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.09-20.00.50:070][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.00.50:088][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-20.00.50:089][428]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.08.09-20.00.50:089][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.08.09-20.00.50:091][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.08.09-20.00.50:100][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.08.09-20.00.50:197][429]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2024.08.09-20.00.54:826][923]LogViewport: Scene viewport resized to 1566x543, mode Windowed.
+[2024.08.09-20.00.54:862][924]LogViewport: Scene viewport resized to 1566x555, mode Windowed.
+[2024.08.09-20.00.54:892][925]LogViewport: Scene viewport resized to 1566x561, mode Windowed.
+[2024.08.09-20.00.54:931][926]LogViewport: Scene viewport resized to 1566x570, mode Windowed.
+[2024.08.09-20.00.54:965][927]LogViewport: Scene viewport resized to 1566x586, mode Windowed.
+[2024.08.09-20.00.54:999][928]LogViewport: Scene viewport resized to 1566x595, mode Windowed.
+[2024.08.09-20.00.55:034][929]LogViewport: Scene viewport resized to 1566x599, mode Windowed.
+[2024.08.09-20.06.40:534][299]LogContentBrowser: Deferred new asset file creation: BP_Enemy_Child
+[2024.08.09-20.06.40:582][299]LogContentBrowser: Creating deferred item: BP_Enemy_Child
+[2024.08.09-20.06.40:593][300]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Enemy_Child).
+[2024.08.09-20.06.47:216][989]LogContentBrowser: Attempting asset rename: BP_Enemy_Child -> BP_EnemyMelee
+[2024.08.09-20.06.47:224][989]LogContentBrowser: End creating deferred item BP_Enemy_Child
+[2024.08.09-20.06.47:225][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-20.07.27:231][323]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-20.07.27:232][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.07.28:160][389]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-20.07.28:160][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.07.29:259][419]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-20.07.29:259][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.07.29:978][457]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.08.09-20.07.29:978][457]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-20.07.29:978][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.07.30:504][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.08.09-20.07.30:504][491]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-20.07.30:504][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.07.31:862][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee
+[2024.08.09-20.07.31:862][583]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-20.07.31:862][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-20.07.31:988][583]LogViewport: Scene viewport resized to 1027x622, mode Windowed.
+[2024.08.09-20.09.16:053][369]BlueprintLog: New page: Compile BP_EnemyMelee
+[2024.08.09-20.09.16:104][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.08.09-20.09.16:687][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-20.09.16:832][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-20.09.16:870][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_EnemyMelee" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_EnemyMelee.uasset" SILENT=true
+[2024.08.09-20.09.16:905][426]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_EnemyMelee
+[2024.08.09-20.09.16:905][426]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_EnemyMelee28A149114C44D99DE4A571A9EF0395E2.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_EnemyMelee.uasset'
+[2024.08.09-20.09.16:913][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 9.08 sec)
+[2024.08.09-20.09.16:914][426]AssetCheck: New page: Asset Save: BP_EnemyMelee
+[2024.08.09-20.09.16:914][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee
+[2024.08.09-20.09.18:370][598]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-20.09.18:398][598]LogBlueprint: Error: [AssetLog] E:\UnrealProjects\I-Rule-The-Night\IRuleTheNightV1\Content\Enemy_Blueprints\BP_Enemy.uasset: [Compiler] Could not find a function named "Attack" in 'BP_Enemy_C'.
+Make sure 'BP_Enemy_C' has been compiled for  Attack
+[2024.08.09-20.09.18:511][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.08.09-20.09.55:697][694]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/BT_Enemy_Base.BT_Enemy_Base
+[2024.08.09-20.10.14:779][932]BlueprintLog: New page: Compile BP_Enemy
+[2024.08.09-20.10.15:321][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.08.09-20.10.15:875][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.09-20.10.16:029][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Blueprints/BP_Enemy" FILE="../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset" SILENT=true
+[2024.08.09-20.10.16:044][975]LogSavePackage: Moving output files for package: /Game/Enemy_Blueprints/BP_Enemy
+[2024.08.09-20.10.16:044][975]LogSavePackage: Moving '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Saved/BP_EnemyDCFD4CB244C7501B16FDC384F203AB06.tmp' to '../../../../../UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/Enemy_Blueprints/BP_Enemy.uasset'
+[2024.08.09-20.10.16:049][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 9.26 sec)
+[2024.08.09-20.10.16:051][975]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.08.09-20.10.16:051][975]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_Blueprints/BP_Enemy.BP_Enemy
+[2024.08.09-20.10.17:333][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.09-20.10.17:342][ 76]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.09-20.10.17:342][ 76]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.08.09-20.10.17:345][ 76]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 1.34 sec)
+[2024.08.09-20.10.17:354][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.09-20.10.17:354][ 76]PIE: New page: PIE session: ThirdPersonMap (Aug 9, 2024, 12:10:17 PM)
+[2024.08.09-20.10.17:354][ 76]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-20.10.17:366][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012210s)
+[2024.08.09-20.10.17:366][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012235s)
+[2024.08.09-20.10.17:384][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.08.09-20.10.17:397][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-20.10.17:397][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-20.10.17:397][ 76]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.09-20.10.17:398][ 76]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.09-20.10.17:398][ 76]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.09-20.10.17:398][ 76]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.09-20.10.17:398][ 76]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.09-20.10.17:400][ 76]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.09-20.10.17:401][ 76]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.77 sec)
+[2024.08.09-20.10.17:401][ 76]LogPlayLevel: PIE: World Init took: (0.003667s)
+[2024.08.09-20.10.17:401][ 76]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.08.09-20.10.17:401][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.09-20.10.17:401][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.09-20.10.17:401][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.09-20.10.17:401][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.09-20.10.17:401][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.09-20.10.17:401][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.09-20.10.17:401][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.09-20.10.17:401][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.09-20.10.17:401][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.09-20.10.17:401][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.09-20.10.17:401][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.09-20.10.17:403][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.09-20.10.17:420][ 76]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.08.09-20.10.17:420][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.09-20.10.17:420][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.09-20.10.17:420][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.09-20.10.17:421][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.08.09-20.10.17:421][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.08.09-20.10.17:423][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.08.09-20.10.17:423][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.08.09-20.10.17:423][ 76]LogInit: FAudioDevice initialized with ID 10.
+[2024.08.09-20.10.17:423][ 76]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2024.08.09-20.10.17:423][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.08.09-20.10.17:426][ 76]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.09-20.10.17:441][ 76]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.09-16.10.17
+[2024.08.09-20.10.17:453][ 76]LogWorld: Bringing up level for play took: 0.027258
+[2024.08.09-20.10.17:471][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_147
+[2024.08.09-20.10.17:472][ 76]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.08.09-20.10.17:472][ 76]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.08.09-20.10.17:480][ 76]LogScript: Warning: Script Msg: The widget 'PlayerInGameHud_C_0' was already added to the screen.
+[2024.08.09-20.10.17:480][ 76]LogScript: Warning: Script Msg called by: InGame_Hud_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.InGame_Hud_C_0
+[2024.08.09-20.10.17:480][ 76]PIE: Server logged in
+[2024.08.09-20.10.17:481][ 76]PIE: Play in editor total start time 0.139 seconds.
+[2024.08.09-20.10.27:328][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-20.10.27:328][ 86]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-20.10.27:328][ 86]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.09-20.10.27:329][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.10.27:329][ 86]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.09-20.10.27:335][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.09-20.10.27:342][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.09-20.10.27:361][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.09-20.10.27:361][ 86]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.08.09-20.10.27:361][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.08.09-20.10.27:363][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.08.09-20.10.27:368][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.09-20.10.27:372][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.08.09-20.10.27:471][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2024.08.09-20.10.50:737][894]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee_C
+[2024.08.09-20.10.50:737][894]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee_C
+[2024.08.09-20.10.50:739][894]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee as actor: BP_EnemyMelee_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMelee_C_0
+[2024.08.09-20.10.50:739][894]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee as actor: BP_EnemyMelee_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMelee_C_0
+[2024.08.09-20.10.51:368][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee_C
+[2024.08.09-20.10.51:368][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee_C
+[2024.08.09-20.10.51:825][951]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee as actor: BP_EnemyMelee_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMelee_C_UAID_A46BB6ADE53EE61002_1629623873
+[2024.08.09-20.10.51:826][951]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_Blueprints/BP_EnemyMelee.BP_EnemyMelee as actor: BP_EnemyMelee_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMelee_C_UAID_A46BB6ADE53EE61002_1629623873
+[2024.08.09-20.10.55:339][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.09-20.10.55:347][284]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.09-20.10.55:347][284]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.08.09-20.10.55:352][284]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 1.35 sec)
+[2024.08.09-20.10.55:359][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.09-20.10.55:359][284]PIE: New page: PIE session: ThirdPersonMap (Aug 9, 2024, 12:10:55 PM)
+[2024.08.09-20.10.55:359][284]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.09-20.10.55:371][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012123s)
+[2024.08.09-20.10.55:371][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012148s)
+[2024.08.09-20.10.55:388][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.08.09-20.10.55:398][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.09-20.10.55:398][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.09-20.10.55:398][284]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.09-20.10.55:399][284]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.09-20.10.55:399][284]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.09-20.10.55:399][284]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.09-20.10.55:399][284]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.09-20.10.55:401][284]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.09-20.10.55:401][284]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.77 sec)
+[2024.08.09-20.10.55:401][284]LogPlayLevel: PIE: World Init took: (0.003649s)
+[2024.08.09-20.10.55:402][284]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.08.09-20.10.55:402][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.09-20.10.55:402][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.09-20.10.55:402][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.09-20.10.55:402][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.09-20.10.55:402][284]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.09-20.10.55:402][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.09-20.10.55:402][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.09-20.10.55:402][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.09-20.10.55:402][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.09-20.10.55:402][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.09-20.10.55:402][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.09-20.10.55:404][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.09-20.10.55:420][284]LogAudioMixer: Display: Using Audio Hardware Device SMT27A300 (NVIDIA High Definition Audio)
+[2024.08.09-20.10.55:420][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.09-20.10.55:420][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.09-20.10.55:420][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.09-20.10.55:422][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.08.09-20.10.55:422][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.08.09-20.10.55:423][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.08.09-20.10.55:423][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.08.09-20.10.55:423][284]LogInit: FAudioDevice initialized with ID 11.
+[2024.08.09-20.10.55:423][284]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2024.08.09-20.10.55:423][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.08.09-20.10.55:425][284]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.08.09-20.10.55:440][284]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.09-16.10.55
+[2024.08.09-20.10.55:444][284]LogWorld: Bringing up level for play took: 0.018383
+[2024.08.09-20.10.55:446][284]LogOnline: OSS: Created online subsystem instance for: :Context_148
+[2024.08.09-20.10.55:447][284]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.08.09-20.10.55:447][284]LogSkeletalMesh: Display: OnRegister[/Game/G2_Survival_02/Meshes/Characters/Combines/SK_Ariana_B3.SK_Ariana_B3]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.08.09-20.10.55:455][284]LogScript: Warning: Script Msg: The widget 'PlayerInGameHud_C_0' was already added to the screen.
+[2024.08.09-20.10.55:455][284]LogScript: Warning: Script Msg called by: InGame_Hud_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.InGame_Hud_C_0
+[2024.08.09-20.10.55:455][284]PIE: Server logged in
+[2024.08.09-20.10.55:455][284]PIE: Play in editor total start time 0.109 seconds.
+[2024.08.09-20.11.05:467][221]LogOutputDevice: Warning: 
+
+Script Stack (2 frames) :
+/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/Task/BTT_DefaultAttack.BTT_DefaultAttack_C.ExecuteUbergraph_BTT_DefaultAttack
+/Game/Enemy_Blueprints/Enemy_AI/NewEnemyAi/Task/BTT_DefaultAttack.BTT_DefaultAttack_C.ReceiveExecuteAI
+
+[2024.08.09-20.11.05:483][221]LogWindows: Error: appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp] [Line: 1459] 
+Failed to find function Attack in BP_EnemyMelee_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMelee_C_UAID_A46BB6ADE53EE61002_1629623873
+
+
+
+[2024.08.09-20.11.05:484][221]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2024.08.09-20.11.30:107][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [24 Seconds] waiting for h/w. InstanceID=11
+[2024.08.09-20.11.30:107][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [24 Seconds] waiting for h/w. InstanceID=1
+[2024.08.09-20.11.30:107][221]LogWindows: Error: === Critical error: ===
+[2024.08.09-20.11.30:107][221]LogWindows: Error: 
+[2024.08.09-20.11.30:107][221]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp] [Line: 1459] 
+[2024.08.09-20.11.30:107][221]LogWindows: Error: Failed to find function Attack in BP_EnemyMelee_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyMelee_C_UAID_A46BB6ADE53EE61002_1629623873
+[2024.08.09-20.11.30:107][221]LogWindows: Error: 
+[2024.08.09-20.11.30:107][221]LogWindows: Error: 
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733961e5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733d85d6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733a64d4 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733aa7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff873379da1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733aa1e1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733aa7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733a9777 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff87309d280 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8733a828f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8143bf971 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff814391cda UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff814316281 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8143305f2 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff814346644 UnrealEditor-AIModule.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86992c658 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff869a3b695 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86b2187eb UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86b21fd32 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86fe11c9f UnrealEditor-Core.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86fe120bb UnrealEditor-Core.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86b247269 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86b250bfe UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86a309839 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86a317077 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8673f58f8 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff86804ea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff7fa5e8af2 UnrealEditor.exe!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff7fa60d28c UnrealEditor.exe!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff7fa60d37a UnrealEditor.exe!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff7fa610854 UnrealEditor.exe!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff7fa626984 UnrealEditor.exe!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff7fa629d7a UnrealEditor.exe!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: [Callstack] 0x00007ff8ae697374 KERNEL32.DLL!UnknownFunction []
+[2024.08.09-20.11.30:107][221]LogWindows: Error: 
