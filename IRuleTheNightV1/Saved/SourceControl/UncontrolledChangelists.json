@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/aguzm/I-Rule-The-Night/IRuleTheNightV1/Content/ThirdPerson/Blueprints/Player_Custom_BP/BP_BloodSkull.uasset",
+				"C:/Users/aguzm/I-Rule-The-Night/IRuleTheNightV1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/aguzm/I-Rule-The-Night/IRuleTheNightV1/Content/TPS_HandGun/TPS_HandGun/Battle/Inplace/HandGun_Shoot_F.uasset",
+				"C:/Users/aguzm/I-Rule-The-Night/IRuleTheNightV1/Content/TPS_HandGun/TPS_HandGun/Battle/Root/HandGun_Shoot_F_Montage.uasset",
 				"E:/UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
 				"E:/UnrealProjects/I-Rule-The-Night/IRuleTheNightV1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
