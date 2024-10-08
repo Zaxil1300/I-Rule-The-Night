@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+IRuleTheNightV1/DerivedDataCache
+IRuleTheNightV1/Saved/Logs
